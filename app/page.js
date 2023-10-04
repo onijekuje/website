@@ -6,7 +6,6 @@ import {
   ArrowPathIcon,
   Bars3Icon,
   ChartPieIcon,
-  FingerPrintIcon,
   SquaresPlusIcon,
   XMarkIcon,
   ChatBubbleLeftRightIcon,
@@ -197,12 +196,14 @@ export default function Home() {
           <div className="fixed inset-0 z-10" />
           <Dialog.Panel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
             <div className="flex items-center justify-between">
-              <a href="#" className="-m-1.5 p-1.5">
-                <span className="sr-only">Your Company</span>
-                <img
-                  className="h-8 w-auto"
-                  src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
-                  alt=""
+              <a href="/" className="-m-1.5 p-1.5">
+                <span className="sr-only">Onijekuje</span>
+                <Image
+                  className="h-full w-auto"
+                  src="/logo_black_text.png"
+                  width={100}
+                  height={100}
+                  alt="Onijekuje Logo"
                 />
               </a>
               <button
@@ -293,7 +294,7 @@ export default function Home() {
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
             Helping African Food Businesses Scale
           </h1>
-          <p className="mt-6 text-lg leading-8 text-gray-600">
+          <p className="mt-6 text-lg leading-8 text-gray-600 p-2">
             At Onijekuje we recognize how hard it is to build and run your own
             food business, that's why we built a set of tools and services to
             take care of the hard stuff, so you can focus on what really
