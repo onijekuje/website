@@ -6,10 +6,11 @@ import {
   ArrowPathIcon,
   Bars3Icon,
   ChartPieIcon,
-  CursorArrowRaysIcon,
   FingerPrintIcon,
   SquaresPlusIcon,
   XMarkIcon,
+  ChatBubbleLeftRightIcon,
+  BanknotesIcon,
 } from "@heroicons/react/24/outline";
 import {
   ChevronDownIcon,
@@ -18,35 +19,30 @@ import {
 } from "@heroicons/react/20/solid";
 import Image from "next/image";
 
-const navigation = [
-  { name: "Blog", href: "#" },
-  { name: "Features", href: "#" },
-  { name: "Marketplace", href: "#" },
-  { name: "Company", href: "#" },
-];
-
 const products = [
   {
-    name: "Analytics",
-    description: "Get a better understanding of your traffic",
+    name: "StoreFront",
+    description:
+      "Get a fully managed and customizable website to kick off digital sales and deliveries",
     href: "#",
     icon: ChartPieIcon,
   },
   {
-    name: "Engagement",
-    description: "Speak directly to your customers",
+    name: "Social Media Engagement",
+    description:
+      "Custom made and tailored social media campaigns to build your online presence",
     href: "#",
-    icon: CursorArrowRaysIcon,
+    icon: ChatBubbleLeftRightIcon,
   },
   {
-    name: "Security",
-    description: "Your customers’ data will be safe and secure",
+    name: "Financial Managment",
+    description: "Custom made tools to help manage your businesses finances",
     href: "#",
-    icon: FingerPrintIcon,
+    icon: BanknotesIcon,
   },
   {
     name: "Integrations",
-    description: "Connect with third-party tools",
+    description: "Connect easily with third-party tools and services",
     href: "#",
     icon: SquaresPlusIcon,
   },
@@ -101,7 +97,7 @@ export default function Home() {
           <Popover.Group className="hidden lg:flex lg:gap-x-12">
             <Popover className="relative">
               <Popover.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
-                Product
+                Services
                 <ChevronDownIcon
                   className="h-5 w-5 flex-none text-gray-400"
                   aria-hidden="true"
@@ -168,19 +164,19 @@ export default function Home() {
               href="#"
               className="text-sm font-semibold leading-6 text-gray-900"
             >
-              Features
+              Blog
             </a>
             <a
               href="#"
               className="text-sm font-semibold leading-6 text-gray-900"
             >
-              Marketplace
+              Media
             </a>
             <a
               href="#"
               className="text-sm font-semibold leading-6 text-gray-900"
             >
-              Company
+              About Us
             </a>
           </Popover.Group>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
@@ -300,12 +296,13 @@ export default function Home() {
           <p className="mt-6 text-lg leading-8 text-gray-600">
             At Onijekuje we recognize how hard it is to build and run your own
             food business, that's why we built a set of tools and services to
-            take care of the hard stuff, so you can focus on what really matters
+            take care of the hard stuff, so you can focus on what really
+            matters!
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
               href="#"
-              className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+              className="rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 bg-black"
             >
               Get started
             </a>
