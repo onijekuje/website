@@ -10,6 +10,14 @@ import {
   XMarkIcon,
   ChatBubbleLeftRightIcon,
   BanknotesIcon,
+  CircleStackIcon,
+  ComputerDesktopIcon,
+  CloudArrowDownIcon,
+  CloudArrowUpIcon,
+  LockClosedIcon,
+  ArrowDownCircleIcon,
+  FingerPrintIcon,
+  ArrowDownIcon,
 } from "@heroicons/react/24/outline";
 import {
   ChevronDownIcon,
@@ -18,43 +26,71 @@ import {
 } from "@heroicons/react/20/solid";
 import Image from "next/image";
 
-const products = [
+const features = [
   {
-    name: "StoreFront",
+    name: "Push to deploy",
     description:
-      "Get a fully managed and customizable website to kick off digital sales and deliveries",
-    href: "#",
-    icon: ChartPieIcon,
+      "Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.",
+    icon: CloudArrowUpIcon,
   },
   {
-    name: "Social Media Engagement",
+    name: "SSL certificates",
     description:
-      "Custom made and tailored social media campaigns to build your online presence",
-    href: "#",
-    icon: ChatBubbleLeftRightIcon,
+      "Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.",
+    icon: LockClosedIcon,
   },
   {
-    name: "Financial Managment",
-    description: "Custom made tools to help manage your businesses finances",
-    href: "#",
-    icon: BanknotesIcon,
-  },
-  {
-    name: "Integrations",
-    description: "Connect easily with third-party tools and services",
-    href: "#",
-    icon: SquaresPlusIcon,
-  },
-  {
-    name: "Automations",
-    description: "Build strategic funnels that will convert",
-    href: "#",
+    name: "Simple queues",
+    description:
+      "Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.",
     icon: ArrowPathIcon,
   },
+  {
+    name: "Advanced security",
+    description:
+      "Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.",
+    icon: FingerPrintIcon,
+  },
+];
+
+const products = [
+  {
+    name: "Oracle",
+    description:
+      "Our comprehensive directory of restaurants and other food based businesses across various cities",
+    href: "https://oracle.onijekuje.com",
+    icon: CircleStackIcon,
+  },
+  // {
+  //   name: "Onijekuje StoreFront",
+  //   description:
+  //     "Get a fully managed and customizable website to kick off digital sales and deliveries",
+  //   href: "#",
+  //   icon: ComputerDesktopIcon,
+  // },
+  // {
+  //   name: "Social Media Engagement",
+  //   description:
+  //     "Custom made and tailored social media campaigns to build your online presence",
+  //   href: "#",
+  //   icon: ChatBubbleLeftRightIcon,
+  // },
+  // {
+  //   name: "Financial Managment",
+  //   description: "Custom made tools to help manage your businesses finances",
+  //   href: "#",
+  //   icon: BanknotesIcon,
+  // },
+  // {
+  //   name: "Integrations",
+  //   description: "Connect easily with third-party tools and services",
+  //   href: "#",
+  //   icon: SquaresPlusIcon,
+  // },
 ];
 const callsToAction = [
-  { name: "Watch demo", href: "#", icon: PlayCircleIcon },
-  { name: "Contact sales", href: "#", icon: PhoneIcon },
+  // { name: "Watch demo", href: "#", icon: PlayCircleIcon },
+  // { name: "Contact sales", href: "#", icon: PhoneIcon },
 ];
 
 function classNames(...classes) {
@@ -96,7 +132,7 @@ export default function Home() {
           <Popover.Group className="hidden lg:flex lg:gap-x-12">
             <Popover className="relative">
               <Popover.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
-                Services
+                Products
                 <ChevronDownIcon
                   className="h-5 w-5 flex-none text-gray-400"
                   aria-hidden="true"
@@ -279,14 +315,17 @@ export default function Home() {
         </Dialog>
       </header>
 
-      <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+      <div className="mx-auto max-w-2xl lg:pt-56 sm:pt-48">
         {/* Announcement banner ...*/}
         {/* <div className="hidden sm:mb-8 sm:flex sm:justify-center">
           <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-            Announcing our next round of funding.{" "}
-            <a href="#" className="font-semibold text-indigo-600">
+            Oracle By Onijeke is now in Private Beta.{" "}
+            <a
+              href="https://oracle.onijekuje.com"
+              className="font-semibold text-indigo-600"
+            >
               <span className="absolute inset-0" aria-hidden="true" />
-              Read more <span aria-hidden="true">&rarr;</span>
+              Check it out now <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
         </div> */}
@@ -316,6 +355,43 @@ export default function Home() {
           </div>
         </div>
       </div>
+      {/* <div className="bg-white mt-20">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="mx-auto max-w-2xl lg:text-center">
+            <h2 className="text-base font-semibold leading-7 text-black">
+              Grow Your Business
+            </h2>
+            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Essential tools to take your food business from 0 - 100
+            </p>
+            <p className="mt-6 text-lg leading-8 text-gray-600">
+              Quis tellus eget adipiscing convallis sit sit eget aliquet quis.
+              Suspendisse eget egestas a elementum pulvinar et feugiat blandit
+              at. In mi viverra elit nunc.
+            </p>
+          </div>
+          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+            <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+              {features.map((feature) => (
+                <div key={feature.name} className="relative pl-16">
+                  <dt className="text-base font-semibold leading-7 text-gray-900">
+                    <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
+                      <feature.icon
+                        className="h-6 w-6 text-white"
+                        aria-hidden="true"
+                      />
+                    </div>
+                    {feature.name}
+                  </dt>
+                  <dd className="mt-2 text-base leading-7 text-gray-600">
+                    {feature.description}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </div>
+        </div>
+      </div> */}
     </div>
   );
 }
