@@ -147,6 +147,64 @@ export default function GuidePage({ params }) {
         " My go-to here is their croissant sandwich and I pair it with their strawberry, banana and mango smoothie- always a bussin’ combo. Their sandwiches are generally fair but their jollof is so constantly amazingly bad that you actually wonder if it’s the same person making the meals.",
       proTipAuthor: "Dese",
     },
+    {
+      name: "Beezus Kitchen’s K-BBQ Night",
+      address: "Private location",
+      budgetPerPerson: "85,000",
+      googleMapsLink: "None",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "N/A",
+      customerService: "Excellent",
+      ambience: "4.5/5",
+      food: "5/5",
+      instagramLink: "beezuskitchen",
+      note: `Another private dining experience, you might say? Absolutely, we are suckers for these in Lagos because we know how hard it is to pull them off and we are always in awe of the minds behind these. If you are a lover of Korean food, this is one of the best places in Lagos to be. 
+          You start off with a cocktail hour with some interesting options like their zobotini before running through seven courses of meat ranging from ribeye to pork ribs, brisket and more. Oh, by the way, you cook your food yourself although you are well guided every step of the way.
+        Chef B also has this cute soju o'clock where at random, everyone has to take a soju shot. All in all, it’s a wonderful bonding experience and they typically hold it once a month. Again, as with other private dining experiences on this list, tickets get sold out fast so keep an eye out. 
+      `,
+      proTip:
+        "Cozy up to one of the K-BBQ Night veterans- they are always there. You can mess up your meat pretty quickly as Chef B can’t be everywhere at once. These Beezus egbon adugbos will help you out before shit hits the fan.",
+      proTipAuthor: "Uju",
+    },
+    {
+      name: "Buttermilk",
+      address: "Plot 124 T. F. Kuboye Rd, Oniru, Lagos 106104, Lagos",
+      budgetPerPerson: "35,000",
+      googleMapsLink: "https://maps.app.goo.gl/XXycfBCm2ro438HV8",
+      parking: "Average",
+      waitTime: "Average",
+      openingHours: "9am to 9pm daily",
+      customerService: "Excellent",
+      ambience: "4/5",
+      food: "4/5",
+      instagramLink: "buttermilk.ng",
+      note: `Buttermilk last year underwent a renovation that we loved- changing from the Barbie pink to a more minimalist mature theme. They do have some weak spots like their pasta but we feel they really hit the mark on their breakfast and brunch options.
+      For us, they have the best pancakes we have ever had in Lagos and service is always professional and prompt. Added bonus is they have a Tacos Tuesday package where you get a nice discount on cocktails and tacos. Also, their burgers aren’t half bad either`,
+      proTip:
+        "Their cinnamon swirl pancakes are a 10/10- an absolute banger. This alone should be enough to bring you here. The triple chocolate waffle milkshake pairs very well with it for a filling meal.",
+      proTipAuthor: "Gideon",
+    },
+    {
+      name: "Canvas Concept Space",
+      address:
+        "36 Rasheed Alaba Williams Street, Lekki Phase 1, Lekki 105102, Lagos",
+      budgetPerPerson: "50,000",
+      googleMapsLink: "https://maps.app.goo.gl/dtxDatza1S41Nxia6",
+      parking: "Average",
+      waitTime: "Average",
+      openingHours: "Variable (call to reserve)",
+      customerService: "Excellent",
+      ambience: "4/5",
+      food: "5/5",
+      instagramLink: "canvas.cs",
+      note: `Canvas Concept Space is a contemporary dining space focused on celebrating West African cuisine. They are a bit of a weird one with varied opening times and different menus- one for cocktail drinking, one for lunch and another for brunch. Also, you can walk in if you want something to have with their cocktails but you have to reserve for full on dining. Their quirkiness aside, Canvas is currently the best place to get drinks in Lagos.
+      Their space is also pretty cozy and the food excellent. Just like Elysium (spoiler alert), they pride themselves in sourcing their ingredients locally from around the country. You will also find events being hosted here regularly and they cover private dining bookings as well.
+      `,
+      proTip:
+        "Probably give them a call or send a DM on IG before going. They are pretty fluid with their rules. Their guinea fowl focaccia sandwich - divine.",
+      proTipAuthor: "Mofe",
+    },
   ];
 
   return (
