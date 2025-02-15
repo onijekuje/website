@@ -41,7 +41,7 @@ const RestaurantCard = ({
         <MapPin className="w-4 h-4 mr-1" />
         <span>
           <a
-            className="cursor-pointer"
+            className="cursor-pointer underline text-blue-400"
             href={googlemapsLink === "NA" ? "#" : googlemapsLink}
           >
             {address}
@@ -74,7 +74,12 @@ const RestaurantCard = ({
         <div className="flex items-center">
           <Instagram className="w-4 h-4 mr-1" />
 
-          <a href={instagramLink}>Instagram</a>
+          <a
+            href={instagramLink}
+            className="text-blue-400 underline cursor-pointer"
+          >
+            Instagram
+          </a>
         </div>
       </div>
 
