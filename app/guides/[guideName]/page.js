@@ -205,6 +205,201 @@ export default function GuidePage({ params }) {
         "Probably give them a call or send a DM on IG before going. They are pretty fluid with their rules. Their guinea fowl focaccia sandwich - divine.",
       proTipAuthor: "Mofe",
     },
+    {
+      name: "Chinatown Restaurant",
+      address:
+        "Mega Plaza, 14B Idowu Martins St, Victoria Island, Lagos 106104, Lagos",
+      budgetPerPerson: "20,000",
+      googleMapsLink: "https://maps.app.goo.gl/idLb9Npe559h2m998",
+      parking: "Good",
+      waitTime: "Average",
+      openingHours: "10:30am to 10:30pm",
+      customerService: "Good",
+      ambience: "3/5",
+      food: "5/5",
+      instagramLink: "None",
+      note: `The fact they do not have a properly functional Instagram or Tik Tok already tells you these are old school folks. Chinatown has been around for decades and they have been feeding souls since thy kingdom come. 
+    There’s not much here in terms of an ambience and it’s a small spot that gets really tight when there’s a large crowd…which happens a bit too often for our liking. That said, the quality of the food combined with the size of the portions makes for a scintillating combo.
+      `,
+      proTip:
+        "Their chicken in sweet and sour sauce paired with their special fried rice is fricking delicious. The chicken in oyster sauce is also quietly as underrated as their dumplings.",
+      proTipAuthor: "Dese",
+    },
+    {
+      name: "Dani Lagos",
+      address:
+        "House 1 Plot 1501 Itirin Court I, Off Bishop Aboyade Cole St, Eti-Osa, Victoria Island, Lagos",
+      budgetPerPerson: "100,000",
+      googleMapsLink: "https://maps.app.goo.gl/PuohnBYZXrKR6tqw8",
+      parking: "Excellent",
+      waitTime: "Fast",
+      openingHours: "3pm to 11pm daily",
+      customerService: "Excellent",
+      ambience: "4.5/5",
+      food: "5/5",
+      instagramLink: "dani.restaurant",
+      note: `Located on the fifth floor of one of the most pricey hotels in Lagos ( The Delborough), Dani ticks off most of the boxes you will expect to be delivered from a premium spot. Parking is not a problem as the valet takes care of that at no cost and considering how many spots in Lagos have parking issues, well done to them for that.
+      Whether it is the DeGrenne cutlery or the crisp and premium marbling used, Dani just does a lot right when it comes to high end dining. Their menu was curated by a three star Michelin chef and the meals are largely excellent. They also have a premium Jazz night every Friday. The dress code here is strictly corporate though so keep that in mind.
+      `,
+      proTip:
+        "Their risotto is head and shoulders the best we have had in Lagos and their short ribs and black cod fish are favs. If you would prefer an all day cafe, their sister spot called The Piano is on the ground floor and they are just as good.",
+      proTipAuthor: "Uju",
+    },
+    {
+      name: "Deba’s Creamery",
+      address: "7b Wole Ariyo St, off Admiralty Way, Lekki Phase 1, Lagos",
+      budgetPerPerson: "7,000",
+      googleMapsLink: "https://maps.app.goo.gl/RMrPnfmjrEv9bjwLA",
+      parking: "Average",
+      waitTime: "Fast",
+      openingHours: "9am to 9pm (open 11am on Sunday)",
+      customerService: "Good",
+      ambience: "3/5",
+      food: "4/5",
+      instagramLink: "debascreamery",
+      note: `So we had space for only one ice cream slot and while we probably felt that pound for pound, Hans and Rene have the best ice cream in Lagos, Deba’s aren’t too far behind and give you a wider variety. Also, Hans and Rene have some very weird picture policy, which for an ice cream spot…like really, what are we doing here.
+      From popsicles to banana bread to waffles to milkshakes, Deba’s hit on most of their items and they also experiment a lot which we admire. If you ever need bulk orders and event coverage, they could also help out and all these combined- that’s why we learned their way
+      `,
+      proTip:
+        "Combine their warm and tasty banana bread with some scoops of ice cream. If you are unsure of what to order, ask Yinka for recommendations.",
+      proTipAuthor: "Mofe",
+    },
+    {
+      name: "Dough Pizza Bar",
+      address: "17B Musa Yar' Adua St, Victoria Island, Lagos 106104, Lagos",
+      budgetPerPerson: "40,000",
+      googleMapsLink: "None",
+      parking: "Bad",
+      waitTime: "Fast",
+      openingHours: "5pm to 10pm daily (strictly by reservation)",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "5/5",
+      instagramLink: "doughpizzabar",
+      note: `Our favourite pizza spot in the city at this moment in time, Dough Pizza Bar is a New York style pizza spot that sells expensive, but mouth watering options. For the older gen, it’s run by the kids of the famous Double Four pizza spot back in the day so you already know you are genetically covered.
+      Their hot salami is the stuff of legends and constantly their most sold out item- for us, it is the best pizza in Lagos and you must not leave without trying it. Their space is kind of small but cozy and the dim lights give an intimate feel. The parking here unfortunately is a bit of a problem due to ‘street police’ charging for a spot.
+      `,
+      proTip:
+        "If you prefer your pizza halal, it might be a bit of a struggle here to get the best stuff. You can try out their nduja and no matter what you get, pair it with their frose. Also, if he is around, ask for Ali. He will finish off the pizza making process at your table and you can get those sweet shots for the gram.",
+      proTipAuthor: "Dese",
+    },
+    {
+      name: "Dulce Cafe and Bakery",
+      address:
+        "Behind Slashpoint supermarket, 15 Glover Rd, Ikoyi, Lagos 106104, Lagos",
+      budgetPerPerson: "25,000",
+      googleMapsLink: "https://maps.app.goo.gl/7YSRUu5wKEwBs2EQ7",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "9am to 9pm (10am to 6pm on Mondays)",
+      customerService: "Excellent",
+      ambience: "4/5",
+      food: "4.5/5",
+      instagramLink: "dulcecafeng",
+      note: `Dulce Cafe has been one of our favs since Kajal (the owner) had a mom and pop shop selling pastries. They have now expanded to become a full on restaurant and we love the open space ambience here. It feels very free and loose, like a place you can just hang out with a date with no pressure. 
+      Their pastries are up there with any in Lagos and their coffee options are also very solid. We feel the further you stretch away from their core (e.g. ordering some pasta), it starts getting a bit weaker. That said, they still get the majority of their dishes absolutely right. 
+      `,
+      proTip:
+        "Don’t leave without getting the cinnamon rolls or chicken pesto sandwich. They also have an unlimited cocktail deal Wed–Fri (5pm–8pm).",
+      proTipAuthor: "Gideon",
+    },
+    {
+      name: "Elysium Beach Club",
+      address:
+        "Elysium jetty End of, Foreshore Rd, Victoria Island, Lagos 106104, Lagos",
+      budgetPerPerson: "80,000",
+      googleMapsLink: "None",
+      parking: "Excellent",
+      waitTime: "Average",
+      openingHours: "1pm to 1am (closed Mon & Tue, strictly by reservation)",
+      customerService: "Excellent",
+      ambience: "4/5",
+      food: "5/5",
+      instagramLink: "elysium_beach_club",
+      note: `So we weren’t sure whether or not to include this as it is not a typical restaurant per se. However, the food being sold inside Elysium Beach Club remains a low-key banger somehow. We can’t really recommend anything because the menu changes every couple of weeks but we can assure you that when it comes to taste, Chef Kemi’s got you.
+      Elysium is currently a members only club and it will set you back a cool 2,000 dollars if that interests you. You can’t really walk in so it’s much preferable if you reserve to save yourself the hassle.
+      `,
+      proTip:
+        "The view and vibe at Elysium Beach Club is a lot better at sunset so you are going to be in better stead going late and if it’s still on the menu, their Elysium Spice ",
+      proTipAuthor: "Mofe",
+    },
+    {
+      name: "Firewood Jollof",
+      address: "10 Admiralty Way, Lekki Phase 1, Lagos 105102, Lagos",
+      budgetPerPerson: "5,000",
+      googleMapsLink: "None",
+      parking: "Average",
+      waitTime: "Average",
+      openingHours: "9am to 10pm (10am to 7pm on Sundays)",
+      customerService: "Average",
+      ambience: "2.5/5",
+      food: "5/5",
+      instagramLink: "firewoodricenigeria",
+      note: `True to their name, FJ are a top tier spot selling proper smokey jollof. You will struggle to find any better in the city although they do have their fair share of issues. The ambience is given an average score but that’s no fault of theirs. Their goal is to give you a setting that’s decent enough to sit down and eat or take it away and they do that well.
+      Their customer service though can certainly go up a notch; actually a couple of notches. That said, it could just be a case of knowing how good their shit is and saying we don’t care, you will love us either way and we kind of respect that.`,
+      proTip:
+        "If possible, come to their store and eat there or have it as take out. Ordering through delivery apps is playing a serious game of jollof roulette with your food whether it’s extremely slow delivery or a missing or wrong item.",
+      proTipAuthor: "Gideon",
+    },
+    {
+      name: "Galaxy Pizza",
+      address: "31B Oju Olobun Cl, Local, Victoria Island, Lagos 101241, Lagos",
+      budgetPerPerson: "30,000",
+      googleMapsLink: "https://maps.app.goo.gl/jWX4xKVX3T5DeCjJA",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "10am to 10pm daily",
+      customerService: "Good",
+      ambience: "3.5/5",
+      food: "5/5",
+      instagramLink: "galaxypizza_lagos",
+      note: `So you know how we said Dough was our fav pizza spot at the moment. Yeah, Galaxy Pizza is right behind them and hot on their heels. These guys offer some unique options ranging from tandoori spicy chicken to shrimp scampi pizza.
+      Their milkshakes are also very solid and decently priced as well. It does cost a bit more than the average pizza in Lagos (less than Dough however) but it is worth every penny. Bonus point for them- they have a very large sitting area that can host large groups as well as an outdoor spot
+      `,
+      proTip:
+        "Their broadway fajita pizza and philly cheese steak sub are two things you must absolutely try before leaving.",
+      proTipAuthor: "Uju",
+    },
+    {
+      name: "Grey Matter Social Space",
+      address:
+        "21C Akin Ogunlewe Rd, off Ligali Ayorinde Street, Victoria Island, Lagos 101241, Lagos",
+      budgetPerPerson: "35,000",
+      googleMapsLink: "None",
+      parking: "Bad",
+      waitTime: "Average",
+      openingHours: "11am to 12am daily (closed Mondays)",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "4.5/5",
+      instagramLink: "greymatter.social",
+      note: `Grey Matter Social Space might be the most treasured spot to go in Lagos for their cocktails. Aside from that, they have a really large space- like a really large crowd can fit in here and they will probably be fine. They have a private cigar lounge and a rooftop spot as well.
+      Do note their drinks are pretty heavy on the gin but their food in keeping with the theme of being a communal space has very large portions and is quite shareable. They also routinely have events here.
+      `,
+      proTip:
+        "There’s a lot of great food here but we will probably go for their sweet potato and goat croquettes as starters, smoked turkey/chef’s fried chicken as a main and Imoteda’s bowl for dessert. If you want to be straight up knocked out with your group, try their holiday at the hive sangria. Careful though- you might not make it home. ",
+      proTipAuthor: "Dese",
+    },
+    {
+      name: "Griddle and Roast",
+      address:
+        "9b Prince Adelowo Adedeji St, off Admiralty Way, Lekki Phase 1, Lagos 100001, Lagos",
+      budgetPerPerson: "35,000",
+      googleMapsLink: "https://maps.app.goo.gl/DRXdy3oSubtZGUhE7",
+      parking: "Good",
+      waitTime: "Average",
+      openingHours: "12pm to 10pm daily (closed Mondays)",
+      customerService: "Good",
+      ambience: "3/5",
+      food: "4/5",
+      instagramLink: "griddleandroast",
+      note: `Despite being smack dab in the middle here, Griddle and Roast was actually one of the later entries as we felt we hadn’t catered enough to the grills side. There’s not much in terms of an ambience here- it’s really just a small spot with a couple of couches that’s semi-closed from the elements.
+      Griddle and Roast though have some absolute lip-smacking bbq options and we are not sure there are too many places that do it as well as them on the island. You won’t usually see a large crowd here so the few seats aren’t a huge problem.
+      `,
+      proTip:
+        "Try to get their farmhouse platter- if anything for the mini burgers it comes with- absolutely delightful. Their grilled catfish is also massive and very well seasoned.",
+      proTipAuthor: "Gideon",
+    },
   ];
 
   return (
