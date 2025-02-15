@@ -56,7 +56,7 @@ const RestaurantCard = ({
         <span>{budgetPerPerson} per person</span>
       </div>
 
-      <div className="flex items-center text-gray-500 text-sm mt-2 space-x-4">
+      <div className="flex flex-wrap items-center text-gray-500 text-sm mt-2 gap-2">
         <div className="flex items-center">
           <Hourglass className="w-4 h-4 mr-1" />
           <span>wait time: {waitTime}</span>
@@ -66,10 +66,10 @@ const RestaurantCard = ({
           <span>customer service: {customerService}</span>
         </div>
       </div>
-      <div className="flex items-center text-gray-500 text-sm mt-2 space-x-4">
+      <div className="flex flex-wrap items-center text-gray-500 text-sm mt-2 gap-2">
         <div className="flex items-center">
           <Timer className="w-4 h-4 mr-1" />
-          <span>openining Hours {openingHours}</span>
+          <span>opening hours: {openingHours}</span>
         </div>
         <div className="flex items-center">
           <Instagram className="w-4 h-4 mr-1" />

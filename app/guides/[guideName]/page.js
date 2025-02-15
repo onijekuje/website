@@ -120,11 +120,32 @@ export default function GuidePage({ params }) {
       ambience: "3/5",
       food: "4/5",
       instagramLink: "None",
-      tags: ["ITALIAN CUISINE", "PASTA", "PIZZA"],
       note: "Basilico is one of those real OGs before IG. It’s Pizzeriah’s brother so we won’t bother including them on the list as you can easily get pizzas from them here as they are basically in the same compound (side note- their pizzas are pretty good). The building is a bit dated and it’s like more of an old house than anything.\n\nWhy we slid Basilico in? Their pasta prices are a couple of thousand under-priced compared to their peers and in terms of quality, they knock out most places in Lagos when it comes to anything Italian. They also have a pool you can dip in if you feel like.",
       proTip:
         "You can’t get it wrong with their arrabbiata, carbonara or alla marinara.",
       proTipAuthor: "Gideon",
+    },
+    {
+      name: "B2B Lagos",
+      address: "7b Karimu Kotun St, Victoria Island, Lagos 106104, Lagos",
+      budgetPerPerson: "30,000",
+      googleMapsLink: "https://maps.app.goo.gl/drfYeU5QXc1Y6PUv6",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "24/7",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "3.5/5",
+      instagramLink: "b2blagos",
+      note: `Breakfast to Breakfast Lagos perfectly encapsulates what we mean by this list being a guide 
+      rather than a top 50. Will it get into our top 50 restaurants in Lagos? Probably not but that’s not taking anything away from what they offer. B2B for us is the best 
+    (and only?) 24/7 diner in Lagos and that in itself is a huge win.
+    When we say 24/7, we definitely mean it. You can walk in literally anytime of the day and be attended to. 
+    For the late night crawlers, that’s golden. Their wait time is also super impressive- whatever time they tell you the food will come out, it will come out sooner. It also holds a special place in our hearts for being the place we shot our favourite Onijekuje video.
+    `,
+      proTip:
+        " My go-to here is their croissant sandwich and I pair it with their strawberry, banana and mango smoothie- always a bussin’ combo. Their sandwiches are generally fair but their jollof is so constantly amazingly bad that you actually wonder if it’s the same person making the meals.",
+      proTipAuthor: "Dese",
     },
   ];
 
