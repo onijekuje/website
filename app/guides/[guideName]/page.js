@@ -895,6 +895,7 @@ Anyway, if you can get over the horrible road to get there, insanely long wait t
     {
       name: "Sushiholic Lagos",
       address: "Block 26, Delakes Mall, 8 Admiralty Wy, Lekki 105102, Lagos",
+      googleMapsLink: "https://maps.app.goo.gl/np3FMyyZrdEqLA8L9",
       budgetPerPerson: "50,000",
       googleMapsLink: "None",
       parking: "Excellent",
@@ -979,7 +980,7 @@ One of the fav things about Wine Labi is their wine tasting experience which you
       address:
         "Marriott Hotel Ikeja, 122 Joel Ogunnaike St, Ikeja GRA, Lagos 100271, Lagos",
       budgetPerPerson: "50,000",
-      googleMapsLink: "https://maps.app.goo.gl/h6SZEMiofZMEBj5V6",
+      googleMapsLink: "https://maps.app.goo.gl/w4wzYz9cQ4kaNBZn6",
       parking: "Good",
       waitTime: "Slow",
       openingHours: "12:00pm to 4:00pm, then 6:00pm to 10:00pm daily",
