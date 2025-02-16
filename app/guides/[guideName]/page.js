@@ -15,7 +15,7 @@ export default function GuidePage({ params }) {
       instagramLink:
         "https://www.instagram.com/abeke_rooftop?igsh=dDRic29lam54a3Zm",
       ambience: "4/5",
-      Food: "4/5",
+      food: "4/5",
       note: `Starting off the list, Abeke is a Yoruba themed rooftop spot with popular local meals 
       served in an upscale setting. You don’t have a wide variety of options across tribes, 
       but they do a pretty good job with their soups and also some nostalgic meals 
@@ -149,7 +149,7 @@ export default function GuidePage({ params }) {
       name: "Beezus Kitchen’s K-BBQ Night",
       address: "Private location",
       budgetPerPerson: "85,000",
-      googleMapsLink: "None",
+      googleMapsLink: "NA",
       parking: "Good",
       waitTime: "Fast",
       openingHours: "N/A",
@@ -271,7 +271,7 @@ export default function GuidePage({ params }) {
       name: "Dough Pizza Bar",
       address: "17B Musa Yar' Adua St, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "40,000",
-      googleMapsLink: "None",
+      googleMapsLink: "NA",
       parking: "Bad",
       waitTime: "Fast",
       openingHours: "5pm to 10pm daily (strictly by reservation)",
@@ -313,7 +313,7 @@ export default function GuidePage({ params }) {
       address:
         "Elysium jetty End of, Foreshore Rd, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "80,000",
-      googleMapsLink: "None",
+      googleMapsLink: "NA",
       parking: "Excellent",
       waitTime: "Average",
       openingHours: "1pm to 1am (closed Mon & Tue, strictly by reservation)",
@@ -333,7 +333,7 @@ export default function GuidePage({ params }) {
       name: "Firewood Jollof",
       address: "10 Admiralty Way, Lekki Phase 1, Lagos 105102, Lagos",
       budgetPerPerson: "5,000",
-      googleMapsLink: "None",
+      googleMapsLink: "NA",
       parking: "Average",
       waitTime: "Average",
       openingHours: "9am to 10pm (10am to 7pm on Sundays)",
@@ -443,7 +443,7 @@ export default function GuidePage({ params }) {
               customerService={restaurant.customerService}
               openingHours={restaurant.openingHours}
               ambience={restaurant.ambience}
-              food={restaurant.Food}
+              food={restaurant.food}
               note={restaurant.note}
               proTip={restaurant.proTip}
               proTipAuthor={restaurant.proTipAuthor}
