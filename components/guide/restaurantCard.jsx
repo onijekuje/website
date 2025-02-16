@@ -1,16 +1,13 @@
 import React from "react";
 import {
-  Bookmark,
-  MoreHorizontal,
   MapPin,
   Timer,
-  Coins,
   HandPlatter,
   Banknote,
   CookingPot,
   Hourglass,
   AudioLines,
-  Speech,
+  CarFront,
   Instagram,
 } from "lucide-react";
 
@@ -28,6 +25,7 @@ const RestaurantCard = ({
   proTip,
   proTipAuthor,
   instagramLink,
+  parking,
 }) => {
   return (
     <div className="border-b border-gray-200 pb-6 mt-4">
@@ -63,17 +61,17 @@ const RestaurantCard = ({
       <div className="flex flex-wrap items-center text-gray-500 text-sm mt-2 gap-2">
         <div className="flex items-center">
           <Hourglass className="w-4 h-4 mr-1" />
-          <span>wait time: {waitTime}</span>
+          <span>Wait time: {waitTime}</span>
         </div>
         <div className="flex items-center">
           <HandPlatter className="w-4 h-4 mr-1" />
-          <span>customer service: {customerService}</span>
+          <span>Customer service: {customerService}</span>
         </div>
       </div>
       <div className="flex flex-wrap items-center text-gray-500 text-sm mt-2 gap-2">
         <div className="flex items-center">
           <Timer className="w-4 h-4 mr-1" />
-          <span>opening hours: {openingHours}</span>
+          <span>Opening hours: {openingHours}</span>
         </div>
         <div className="flex items-center">
           <Instagram className="w-4 h-4 mr-1" />
@@ -98,6 +96,10 @@ const RestaurantCard = ({
         <div className="flex items-center">
           <AudioLines className="w-4 h-4 mr-1" />
           <span>Ambience: {ambience}</span>
+        </div>
+        <div className="flex items-center">
+          <CarFront className="w-4 h-4 mr-1" />
+          <span>Parking: {parking}</span>
         </div>
       </div>
 

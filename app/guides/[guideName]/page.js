@@ -11,6 +11,7 @@ export default function GuidePage({ params }) {
       budgetPerPerson: "35,000",
       waitTime: "average",
       openingHours: "12:00 PM - 11:00 PM",
+      parking: "Limited",
       customerService: "excellent",
       instagramLink:
         "https://www.instagram.com/abeke_rooftop?igsh=dDRic29lam54a3Zm",
@@ -32,7 +33,7 @@ export default function GuidePage({ params }) {
       address: "Private",
       googleMapsLink: "NA",
       budgetPerPerson: "100,000",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "N/A",
       customerService: "Excellent",
@@ -53,7 +54,7 @@ export default function GuidePage({ params }) {
       address: "Akerele St, Surulere, Lagos 101241, Lagos",
       googleMapsLink: "https://maps.app.goo.gl/YFiWpyxBhiXsmYTw8",
       budgetPerPerson: "3,000",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "12pm to 11pm daily",
       customerService: "Average",
@@ -72,7 +73,7 @@ export default function GuidePage({ params }) {
         "Bosun Anifowoshe St, Olakunle Ajibade St, off Olakunle Rd, Ojota, Lagos",
       budgetPerPerson: "3,000",
       googleMapsLink: "https://maps.app.goo.gl/EBCoyyEn7wFqTYPb8",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "8am to 7pm (closed Sundays)",
       customerService: "Average",
@@ -111,7 +112,7 @@ export default function GuidePage({ params }) {
       address: "15 Musa Yar' Adua St, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "25,000",
       googleMapsLink: "https://maps.app.goo.gl/Hg8V32q9Sv2E2i2D9",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "8am to 10pm daily",
       customerService: "Good",
@@ -171,7 +172,7 @@ export default function GuidePage({ params }) {
       address: "Plot 124 T. F. Kuboye Rd, Oniru, Lagos 106104, Lagos",
       budgetPerPerson: "35,000",
       googleMapsLink: "https://maps.app.goo.gl/XXycfBCm2ro438HV8",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "9am to 9pm daily",
       customerService: "Excellent",
@@ -191,7 +192,7 @@ export default function GuidePage({ params }) {
         "36 Rasheed Alaba Williams Street, Lekki Phase 1, Lekki 105102, Lagos",
       budgetPerPerson: "50,000",
       googleMapsLink: "https://maps.app.goo.gl/dtxDatza1S41Nxia6",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "Variable (call to reserve)",
       customerService: "Excellent",
@@ -252,7 +253,7 @@ export default function GuidePage({ params }) {
       address: "7b Wole Ariyo St, off Admiralty Way, Lekki Phase 1, Lagos",
       budgetPerPerson: "7,000",
       googleMapsLink: "https://maps.app.goo.gl/RMrPnfmjrEv9bjwLA",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "9am to 9pm (open 11am on Sunday)",
       customerService: "Good",
@@ -261,7 +262,7 @@ export default function GuidePage({ params }) {
       instagramLink:
         "https://www.instagram.com/debascreamery?igsh=eDQyamY3NGFkNnNw",
       note: `So we had space for only one ice cream slot and while we probably felt that pound for pound, Hans and Rene have the best ice cream in Lagos, Deba’s aren’t too far behind and give you a wider variety. Also, Hans and Rene have some very weird picture policy, which for an ice cream spot…like really, what are we doing here.
-      From popsicles to banana bread to waffles to milkshakes, Deba’s hit on most of their items and they also experiment a lot which we admire. If you ever need bulk orders and event coverage, they could also help out and all these combined- that’s why we learned their way
+      From popsicles to banana bread to waffles to milkshakes, Deba’s hit on most of their items and they also experiment a lot which we admire. If you ever need bulk orders and event coverage, they could also help out and all these combined- that’s why we leaned their way
       `,
       proTip:
         "Combine their warm and tasty banana bread with some scoops of ice cream. If you are unsure of what to order, ask Yinka for recommendations.",
@@ -313,7 +314,7 @@ export default function GuidePage({ params }) {
       address:
         "Elysium jetty End of, Foreshore Rd, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "80,000",
-      googleMapsLink: "NA",
+      googleMapsLink: "https://maps.app.goo.gl/BTStvjwPJUTtWEXY7",
       parking: "Excellent",
       waitTime: "Average",
       openingHours: "1pm to 1am (closed Mon & Tue, strictly by reservation)",
@@ -334,7 +335,7 @@ export default function GuidePage({ params }) {
       address: "10 Admiralty Way, Lekki Phase 1, Lagos 105102, Lagos",
       budgetPerPerson: "5,000",
       googleMapsLink: "https://maps.app.goo.gl/xLiMEn6mYS86vX3SA",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "9am to 10pm (10am to 7pm on Sundays)",
       customerService: "Average",
@@ -373,7 +374,7 @@ export default function GuidePage({ params }) {
       address:
         "21C Akin Ogunlewe Rd, off Ligali Ayorinde Street, Victoria Island, Lagos 101241, Lagos",
       budgetPerPerson: "35,000",
-      googleMapsLink: "NA",
+      googleMapsLink: "https://maps.app.goo.gl/snEqUKv3AwNg9t3s7",
       parking: "Bad",
       waitTime: "Average",
       openingHours: "11am to 12am daily (closed Mondays)",
@@ -435,7 +436,7 @@ export default function GuidePage({ params }) {
       address: "25 Babatope Bejide Cres, Lekki Phase 1, Lagos 106104, Lagos",
       budgetPerPerson: "30,000",
       googleMapsLink: "https://maps.app.goo.gl/SAJiR5sVyVqvGQDq7",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "10am to 10pm daily",
       customerService: "Good",
@@ -456,7 +457,7 @@ export default function GuidePage({ params }) {
         "14 Kafayat Abdulrasaq Street, Lekki Phase I, Lagos 106104, Lagos",
       budgetPerPerson: "30,000",
       googleMapsLink: "https://maps.app.goo.gl/xXkbQfeBzYhQSRGV7",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "10am to 10pm daily",
       customerService: "Good",
@@ -475,7 +476,7 @@ export default function GuidePage({ params }) {
       address: "Plot 6 Muiz Banire St, Lekki Phase 1, Lekki 100001, Lagos",
       budgetPerPerson: "20,000",
       googleMapsLink: "https://maps.app.goo.gl/1VCTjdabmxm8vgMF8",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Slow",
       openingHours: "10am to 9pm daily (open 12pm Sundays)",
       customerService: "Good",
@@ -512,7 +513,7 @@ A few points of caution- their indoor space is super small and not one for the c
       address: "8A Ologun Agbaje St, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "15,000",
       googleMapsLink: "https://maps.app.goo.gl/Udb3hoB5dSuYzpJu9",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "12pm to 9pm (closed Mondays)",
       customerService: "Excellent",
@@ -574,7 +575,7 @@ We kind of like how toned down and simple the menu is and they also sell ingredi
       address: "47 Arolowun street, Onipanu, Ikeja 102215, Lagos",
       budgetPerPerson: "3,000",
       googleMapsLink: "None",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "12pm to 9pm (closed Mondays)",
       customerService: "Good",
@@ -613,9 +614,10 @@ There’s also a large screen in the Green House court so if you come here on a 
       name: "Milk and Honey / Gather House",
       address:
         "47 Admiralty Road, Lekki Phase 1, and 38 Norman Williams St, Ikoyi, Lagos 101233, Lagos",
+      googleMapsLink: "https://maps.app.goo.gl/tJY9W4B4EJLjm4n5A",
       budgetPerPerson: "15,000",
       googleMapsLink: "None",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "7am to 8pm",
       customerService: "Good",
@@ -733,7 +735,7 @@ Rhodes is a traditional Southern Style American BBQ spot owned by Koye Rhodes wh
       address: "9 Eletu Ogabi St, Victoria Island, Lagos 101001, Lagos",
       budgetPerPerson: "80,000",
       googleMapsLink: "https://maps.app.goo.gl/Xysvzsbh3WEuZA4e6",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "11am to 11:30pm daily",
       customerService: "Excellent",
@@ -755,7 +757,7 @@ Rhodes is a traditional Southern Style American BBQ spot owned by Koye Rhodes wh
         "Beside Commint Buka, Municipal B/Stop, 26 Itire Street, Idi-Araba, Lagos 101241, Lagos",
       budgetPerPerson: "5,000",
       googleMapsLink: "https://maps.app.goo.gl/5ydXPA1dbK618mkV7",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "10am to 9pm",
       customerService: "Good",
@@ -815,7 +817,7 @@ Their burgers and dessert options are so good and their bartenders always put on
       address: "Aaron mall St, 12 Olubunmi Owa St, Lekki Phase 1, Lekki",
       budgetPerPerson: "40,000",
       googleMapsLink: "https://maps.app.goo.gl/XZaRBRNXA86fQdik6",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "12pm to 11pm daily",
       customerService: "Good",
@@ -856,7 +858,7 @@ They are also one of the few places we know where you can get a full on teppanya
       address: "22b Olawale Cole Onitiri Ave, Eti-Osa, Lekki 106104, Lagos",
       budgetPerPerson: "50,000",
       googleMapsLink: "https://maps.app.goo.gl/qHqqcx1d3R5K9Qh87",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "N/A",
       customerService: "Good",
@@ -875,7 +877,7 @@ The possible options to cook range from pasta to Nigerian food and you get to pl
       address: "3, nkoroh joe street, via, Oki Ln, Mende, Lagos 100211",
       budgetPerPerson: "25,000",
       googleMapsLink: "https://maps.app.goo.gl/AwEp9j4nJFjErNQP7",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Slow",
       openingHours: "12pm to 12am daily",
       customerService: "Average",
@@ -957,7 +959,7 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
         "11a, Goriola Street, Off Adeola Odeku, Victoria Island 106104, Lagos",
       budgetPerPerson: "60,000",
       googleMapsLink: "https://maps.app.goo.gl/A2atVzUZvFBwnrXAA",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Average",
       openingHours: "12:00pm to 12:00am daily",
       customerService: "Excellent",
@@ -996,7 +998,7 @@ One of the fav things about Wine Labi is their wine tasting experience which you
       address: "1 Polo Rd, Ikoyi, Lagos 106104, Lagos",
       budgetPerPerson: "4,000",
       googleMapsLink: "https://maps.app.goo.gl/eqzqYnApURMfR7Lo8",
-      parking: "Average",
+      parking: "Limited",
       waitTime: "Fast",
       openingHours: "9:00am to 12:00am daily",
       customerService: "Excellent",
@@ -1018,7 +1020,7 @@ That said, if you are already close to one of the most prestigious and historic 
       <div className="max-w-2xl mx-auto p-4 space-y-8">
         <div className="flex flex-col items-center justify-between p-4">
           <h1 className="text-black text-3xl font-bold mb-5">
-            A Johnny Just Come guide to eating out in Lagos
+            A Johnny-Just-Come guide to eating out in Lagos
           </h1>
           <p className="text-gray-600 leading-relaxed mb-10">
             If you are stuck with the pain in the arse that is finding a place
@@ -1048,6 +1050,7 @@ That said, if you are already close to one of the most prestigious and historic 
               proTip={restaurant.proTip}
               proTipAuthor={restaurant.proTipAuthor}
               instagramLink={restaurant.instagramLink}
+              parking={restaurant.parking}
             />
           ))}
           <p className="text-gray-600 leading-relaxed mt-10">
