@@ -917,7 +917,7 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       name: "The Ona Lagos",
       address: "1701 Violet Yough Close, Victoria Island, 106104, Lagos",
       budgetPerPerson: "80,000",
-      googleMapsLink: "None",
+      googleMapsLink: "https://maps.app.goo.gl/dpE7D2CTHkCPSRGk7",
       parking: "Excellent",
       waitTime: "Fast",
       openingHours: "12:30pm to 11:00pm (closed Wednesdays)",
@@ -969,7 +969,7 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       instagramLink:
         "https://www.instagram.com/thewinelabrestaurant?igsh=cGIwcWp5a3lpcHZn",
       note: `The Wine Lab is a chic and gorgeous spot nestled away in Victoria Island. When outside, you might as well be in the garden of a little village in Sicily and the interior does not disappoint as well. True to their name, they have an extensive wine collection- maybe the most in Lagos 
-One of the fav things about Wine Labi is their wine tasting experience which you can pair with some of their bussin’ food. You get five glasses of wine given to you by their sommelier and are given a masterclass from the history of wine to how to properly drink it.
+One of the fav things about Wine Lab is their wine tasting experience which you can pair with some of their bussin’ food. You get five glasses of wine given to you by their sommelier and are given a masterclass from the history of wine to how to properly drink it.
 `,
       proTip:
         "Their sommelier Joshua is probably the most fun person to do the wine tasting with and this is one of the nicest dating experiences you will find in the city. If you are looking for something to pair with the wine tasting, you can try out their seafood platter or if you want something a bit cute, their cheese platter. ",
