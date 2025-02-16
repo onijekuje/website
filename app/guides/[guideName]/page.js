@@ -1,5 +1,6 @@
 import RestaurantCard from "@/components/guide/restaurantCard";
 import Header from "@/components/header/Header";
+import moment from "moment";
 
 export default function GuidePage({ params }) {
   const restaurants = [
@@ -554,7 +555,7 @@ Their rooftop view is lovely and the food does not lag far behind as well. Yes, 
       address:
         "Ile Oja, Sanusi Fafunwa Street, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "20,000",
-      googleMapsLink: "None",
+      googleMapsLink: "https://maps.app.goo.gl/vqzMEWyH9Jqf7bDM6",
       parking: "Good",
       waitTime: "Fast",
       openingHours: "12pm to 9pm (closed Mondays)",
@@ -1023,6 +1024,11 @@ That said, if you are already close to one of the most prestigious and historic 
           <h1 className="text-black text-3xl font-bold mb-5">
             A Johnny-Just-Come guide to eating out in Lagos
           </h1>
+          <div className="gap-1 w-full mb-5">
+            <p className="text-gray-700 text-xs w-full bg">
+              Last updated : {moment("2025-02-16").format("MMM D, YYYY")}
+            </p>
+          </div>
           <p className="text-gray-600 leading-relaxed mb-10">
             If you are stuck with the pain in the arse that is finding a place
             to go eat in Lagos with time ticking away relentlessly, you are in

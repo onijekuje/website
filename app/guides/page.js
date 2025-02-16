@@ -25,12 +25,9 @@ export default function GuidePage() {
           {/* Passerine */}
           <div className="space-y-4">
             <div className="flex items-center justify-between">
-              <h2 className="text-l text-black">
+              <h2 className="text-xl text-black">
                 A Johnny Just Come guide to eating out in Lagos
               </h2>
-              <div className="flex items-center gap-1">
-                <span className="font-bold">7.9</span>
-              </div>
             </div>
 
             <p className="text-gray-600 text-sm leading-relaxed">
