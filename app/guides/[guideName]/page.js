@@ -59,8 +59,7 @@ export default function GuidePage({ params }) {
       customerService: "Average",
       ambience: "N/A",
       food: "5/5",
-      instagramLink: "Na",
-      tags: ["STREET FOOD", "SUYA"],
+      instagramLink: "NA",
       note: "Our best suya spot in the city and one of two suya spots on this list. From their iconic sign to the large crowds, you see why this place is a fav in the city. On a slow day, their customer service is pretty good but when things get hectic, they enter their strict business mode and just chop away robotically which…isn’t really a bad thing to be fair.\nMid afternoon is a decent time to check them out if you are hoping to dodge the crowds.",
       proTip:
         "There’s a shop right next to the suya stand that sells drinks and beer. If you are not in a rush, you can pull out a couple of chairs with your group, kick back and relax. Fight the temptation to stand up and order more suya though.",
@@ -79,8 +78,7 @@ export default function GuidePage({ params }) {
       customerService: "Average",
       ambience: "N/A",
       food: "5/5",
-      instagramLink: "None",
-      tags: ["STREET FOOD", "AMALA"],
+      instagramLink: "NA",
       note: "A place so iconic it has its own bus stop (kinda) and with a name that’s a vibe. Amala Yahoo has been around for decades and even though we don’t eat it much (as evidenced by the lack of amala spots on the page) we have it on good record this is one of the goated amala places in Lagos.\n\nPrepare yourself for the shanty scenery though as you will eat in an uncompleted building with iffy customer service and that’s being generous. If you can get past that, there’s a banger here.",
       proTip:
         "Take-out is an easier way to go than eating there and don’t leave without trying their ogufe.",
@@ -119,7 +117,7 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "3/5",
       food: "4/5",
-      instagramLink: "None",
+      instagramLink: "NA",
       note: "Basilico is one of those real OGs before IG. It’s Pizzeriah’s brother so we won’t bother including them on the list as you can easily get pizzas from them here as they are basically in the same compound (side note- their pizzas are pretty good). The building is a bit dated and it’s like more of an old house than anything.\n\nWhy we slid Basilico in? Their pasta prices are a couple of thousand under-priced compared to their peers and in terms of quality, they knock out most places in Lagos when it comes to anything Italian. They also have a pool you can dip in if you feel like.",
       proTip:
         "You can’t get it wrong with their arrabbiata, carbonara or alla marinara.",
@@ -136,7 +134,7 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "4/5",
       food: "3.5/5",
-      instagramLink: "b2blagos",
+      instagramLink: "https://www.instagram.com/b2blagos?igsh=cHRqMzAyeW9jdnM=",
       note: `Breakfast to Breakfast Lagos perfectly encapsulates what we mean by this list being a guide 
       rather than a top 50. Will it get into our top 50 restaurants in Lagos? Probably not but that’s not taking anything away from what they offer. B2B for us is the best 
     (and only?) 24/7 diner in Lagos and that in itself is a huge win.
@@ -158,7 +156,8 @@ export default function GuidePage({ params }) {
       customerService: "Excellent",
       ambience: "4.5/5",
       food: "5/5",
-      instagramLink: "beezuskitchen",
+      instagramLink:
+        "https://www.instagram.com/beezuskitchen?igsh=MTlkN2g4dXQ4bG95NA==",
       note: `Another private dining experience, you might say? Absolutely, we are suckers for these in Lagos because we know how hard it is to pull them off and we are always in awe of the minds behind these. If you are a lover of Korean food, this is one of the best places in Lagos to be. 
           You start off with a cocktail hour with some interesting options like their zobotini before running through seven courses of meat ranging from ribeye to pork ribs, brisket and more. Oh, by the way, you cook your food yourself although you are well guided every step of the way.
         Chef B also has this cute soju o'clock where at random, everyone has to take a soju shot. All in all, it’s a wonderful bonding experience and they typically hold it once a month. Again, as with other private dining experiences on this list, tickets get sold out fast so keep an eye out. 
@@ -178,7 +177,8 @@ export default function GuidePage({ params }) {
       customerService: "Excellent",
       ambience: "4/5",
       food: "4/5",
-      instagramLink: "buttermilk.ng",
+      instagramLink:
+        "https://www.instagram.com/buttermilk.ng?igsh=MW96YTVxMmM0eWVmaA==",
       note: `Buttermilk last year underwent a renovation that we loved- changing from the Barbie pink to a more minimalist mature theme. They do have some weak spots like their pasta but we feel they really hit the mark on their breakfast and brunch options.
       For us, they have the best pancakes we have ever had in Lagos and service is always professional and prompt. Added bonus is they have a Tacos Tuesday package where you get a nice discount on cocktails and tacos. Also, their burgers aren’t half bad either`,
       proTip:
@@ -197,7 +197,8 @@ export default function GuidePage({ params }) {
       customerService: "Excellent",
       ambience: "4/5",
       food: "5/5",
-      instagramLink: "canvas.cs",
+      instagramLink:
+        "https://www.instagram.com/canvas.cs?igsh=MTJ2YTlvcHA0bXEzZw==",
       note: `Canvas Concept Space is a contemporary dining space focused on celebrating West African cuisine. They are a bit of a weird one with varied opening times and different menus- one for cocktail drinking, one for lunch and another for brunch. Also, you can walk in if you want something to have with their cocktails but you have to reserve for full on dining. Their quirkiness aside, Canvas is currently the best place to get drinks in Lagos.
       Their space is also pretty cozy and the food excellent. Just like Elysium (spoiler alert), they pride themselves in sourcing their ingredients locally from around the country. You will also find events being hosted here regularly and they cover private dining bookings as well.
       `,
@@ -217,7 +218,7 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "3/5",
       food: "5/5",
-      instagramLink: "None",
+      instagramLink: "NA",
       note: `The fact they do not have a properly functional Instagram or Tik Tok already tells you these are old school folks. Chinatown has been around for decades and they have been feeding souls since thy kingdom come. 
     There’s not much here in terms of an ambience and it’s a small spot that gets really tight when there’s a large crowd…which happens a bit too often for our liking. That said, the quality of the food combined with the size of the portions makes for a scintillating combo.
       `,
@@ -237,7 +238,8 @@ export default function GuidePage({ params }) {
       customerService: "Excellent",
       ambience: "4.5/5",
       food: "5/5",
-      instagramLink: "dani.restaurant",
+      instagramLink:
+        "https://www.instagram.com/dani.restaurant?igsh=MXAweHJkOXo5bWhoOA==",
       note: `Located on the fifth floor of one of the most pricey hotels in Lagos ( The Delborough), Dani ticks off most of the boxes you will expect to be delivered from a premium spot. Parking is not a problem as the valet takes care of that at no cost and considering how many spots in Lagos have parking issues, well done to them for that.
       Whether it is the DeGrenne cutlery or the crisp and premium marbling used, Dani just does a lot right when it comes to high end dining. Their menu was curated by a three star Michelin chef and the meals are largely excellent. They also have a premium Jazz night every Friday. The dress code here is strictly corporate though so keep that in mind.
       `,
@@ -256,7 +258,8 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "3/5",
       food: "4/5",
-      instagramLink: "debascreamery",
+      instagramLink:
+        "https://www.instagram.com/debascreamery?igsh=eDQyamY3NGFkNnNw",
       note: `So we had space for only one ice cream slot and while we probably felt that pound for pound, Hans and Rene have the best ice cream in Lagos, Deba’s aren’t too far behind and give you a wider variety. Also, Hans and Rene have some very weird picture policy, which for an ice cream spot…like really, what are we doing here.
       From popsicles to banana bread to waffles to milkshakes, Deba’s hit on most of their items and they also experiment a lot which we admire. If you ever need bulk orders and event coverage, they could also help out and all these combined- that’s why we learned their way
       `,
@@ -275,7 +278,8 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "4/5",
       food: "5/5",
-      instagramLink: "doughpizzabar",
+      instagramLink:
+        "https://www.instagram.com/doughpizzabar?igsh=MWdkNDVuOHNxYnExaQ==",
       note: `Our favourite pizza spot in the city at this moment in time, Dough Pizza Bar is a New York style pizza spot that sells expensive, but mouth watering options. For the older gen, it’s run by the kids of the famous Double Four pizza spot back in the day so you already know you are genetically covered.
       Their hot salami is the stuff of legends and constantly their most sold out item- for us, it is the best pizza in Lagos and you must not leave without trying it. Their space is kind of small but cozy and the dim lights give an intimate feel. The parking here unfortunately is a bit of a problem due to ‘street police’ charging for a spot.
       `,
@@ -295,7 +299,8 @@ export default function GuidePage({ params }) {
       customerService: "Excellent",
       ambience: "4/5",
       food: "4.5/5",
-      instagramLink: "dulcecafeng",
+      instagramLink:
+        "https://www.instagram.com/dani.restaurant?igsh=MXAweHJkOXo5bWhoOA==",
       note: `Dulce Cafe has been one of our favs since Kajal (the owner) had a mom and pop shop selling pastries. They have now expanded to become a full on restaurant and we love the open space ambience here. It feels very free and loose, like a place you can just hang out with a date with no pressure. 
       Their pastries are up there with any in Lagos and their coffee options are also very solid. We feel the further you stretch away from their core (e.g. ordering some pasta), it starts getting a bit weaker. That said, they still get the majority of their dishes absolutely right. 
       `,
@@ -315,7 +320,8 @@ export default function GuidePage({ params }) {
       customerService: "Excellent",
       ambience: "4/5",
       food: "5/5",
-      instagramLink: "elysium_beach_club",
+      instagramLink:
+        "https://www.instagram.com/elysium_beach_club?igsh=MWFwY2RmeDY3eGNjbg==",
       note: `So we weren’t sure whether or not to include this as it is not a typical restaurant per se. However, the food being sold inside Elysium Beach Club remains a low-key banger somehow. We can’t really recommend anything because the menu changes every couple of weeks but we can assure you that when it comes to taste, Chef Kemi’s got you.
       Elysium is currently a members only club and it will set you back a cool 2,000 dollars if that interests you. You can’t really walk in so it’s much preferable if you reserve to save yourself the hassle.
       `,
@@ -334,7 +340,8 @@ export default function GuidePage({ params }) {
       customerService: "Average",
       ambience: "2.5/5",
       food: "5/5",
-      instagramLink: "firewoodricenigeria",
+      instagramLink:
+        "https://www.instagram.com/firewoodricenigeria?igsh=NXR0bGppOXAyajdl",
       note: `True to their name, FJ are a top tier spot selling proper smokey jollof. You will struggle to find any better in the city although they do have their fair share of issues. The ambience is given an average score but that’s no fault of theirs. Their goal is to give you a setting that’s decent enough to sit down and eat or take it away and they do that well.
       Their customer service though can certainly go up a notch; actually a couple of notches. That said, it could just be a case of knowing how good their shit is and saying we don’t care, you will love us either way and we kind of respect that.`,
       proTip:
@@ -352,7 +359,8 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "3.5/5",
       food: "5/5",
-      instagramLink: "galaxypizza_lagos",
+      instagramLink:
+        "https://www.instagram.com/galaxypizza_lagos?igsh=MWk0MG9tbGxzazJrYw==Z§",
       note: `So you know how we said Dough was our fav pizza spot at the moment. Yeah, Galaxy Pizza is right behind them and hot on their heels. These guys offer some unique options ranging from tandoori spicy chicken to shrimp scampi pizza.
       Their milkshakes are also very solid and decently priced as well. It does cost a bit more than the average pizza in Lagos (less than Dough however) but it is worth every penny. Bonus point for them- they have a very large sitting area that can host large groups as well as an outdoor spot
       `,
@@ -365,14 +373,15 @@ export default function GuidePage({ params }) {
       address:
         "21C Akin Ogunlewe Rd, off Ligali Ayorinde Street, Victoria Island, Lagos 101241, Lagos",
       budgetPerPerson: "35,000",
-      googleMapsLink: "None",
+      googleMapsLink: "NA",
       parking: "Bad",
       waitTime: "Average",
       openingHours: "11am to 12am daily (closed Mondays)",
       customerService: "Good",
       ambience: "4/5",
       food: "4.5/5",
-      instagramLink: "greymatter.social",
+      instagramLink:
+        "https://www.instagram.com/greymatter.social?igsh=MWVxanA0MTZmc3h1eA==",
       note: `Grey Matter Social Space might be the most treasured spot to go in Lagos for their cocktails. Aside from that, they have a really large space- like a really large crowd can fit in here and they will probably be fine. They have a private cigar lounge and a rooftop spot as well.
       Do note their drinks are pretty heavy on the gin but their food in keeping with the theme of being a communal space has very large portions and is quite shareable. They also routinely have events here.
       `,
@@ -392,7 +401,8 @@ export default function GuidePage({ params }) {
       customerService: "Good",
       ambience: "3/5",
       food: "4/5",
-      instagramLink: "griddleandroast",
+      instagramLink:
+        "https://www.instagram.com/griddleandroast?igsh=MW4yZHEwazIwdHhkOQ==",
       note: `Despite being smack dab in the middle here, Griddle and Roast was actually one of the later entries as we felt we hadn’t catered enough to the grills side. There’s not much in terms of an ambience here- it’s really just a small spot with a couple of couches that’s semi-closed from the elements.
       Griddle and Roast though have some absolute lip-smacking bbq options and we are not sure there are too many places that do it as well as them on the island. You won’t usually see a large crowd here so the few seats aren’t a huge problem.
       `,
