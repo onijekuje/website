@@ -9,27 +9,27 @@ export default function Home() {
 
       <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
         {/* Announcement banner ...*/}
-        {/* <div className="hidden sm:mb-8 sm:flex sm:justify-center">
-          <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-            Oracle By Onijeke is now in Private Beta.{" "}
+        <div className="hidden sm:mb-8 sm:flex sm:justify-center">
+          <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 bg-gradient-to-l from-indigo-100 to-indigo-200 animate-pulse">
+            So we built Imani, An AI chop-life assistant (still in Beta){" "}
             <a
-              href="https://oracle.onijekuje.com"
+              href="https://imani.onijekuje.com"
               className="font-semibold text-indigo-600"
             >
               <span className="absolute inset-0" aria-hidden="true" />
               Check it out now <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
-        </div> */}
+        </div>
         <div className="text-center">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
             Helping African Food Businesses Scale
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600 p-2">
-            At Onijekuje we recognize how hard it is to build and run your own
-            food business, that's why we built a set of tools and services to
-            take care of the hard stuff, so you can focus on what really
-            matters!
+            At Onijekuje, we’re all about uncovering the best restaurants and
+            food experiences across Africa. Whether you're looking for a hidden
+            gem or a city favorite, we help you find the best places to eat—no
+            fuss, just great food.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
