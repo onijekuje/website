@@ -82,7 +82,7 @@ const RestaurantCard = ({
           ) : (
             <a
               href={instagramLink}
-              className="text-blue-400 underline cursor-pointer"
+              className="text-purple-500 underline cursor-pointer"
             >
               Instagram
             </a>
