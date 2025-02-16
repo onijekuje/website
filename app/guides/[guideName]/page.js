@@ -333,7 +333,7 @@ export default function GuidePage({ params }) {
       name: "Firewood Jollof",
       address: "10 Admiralty Way, Lekki Phase 1, Lagos 105102, Lagos",
       budgetPerPerson: "5,000",
-      googleMapsLink: "NA",
+      googleMapsLink: "https://maps.app.goo.gl/xLiMEn6mYS86vX3SA",
       parking: "Average",
       waitTime: "Average",
       openingHours: "9am to 10pm (10am to 7pm on Sundays)",
@@ -342,8 +342,8 @@ export default function GuidePage({ params }) {
       food: "5/5",
       instagramLink:
         "https://www.instagram.com/firewoodricenigeria?igsh=NXR0bGppOXAyajdl",
-      note: `True to their name, FJ are a top tier spot selling proper smokey jollof. You will struggle to find any better in the city although they do have their fair share of issues. The ambience is given an average score but that’s no fault of theirs. Their goal is to give you a setting that’s decent enough to sit down and eat or take it away and they do that well.
-      Their customer service though can certainly go up a notch; actually a couple of notches. That said, it could just be a case of knowing how good their shit is and saying we don’t care, you will love us either way and we kind of respect that.`,
+      note: `True to their name, FJ are a top tier spot selling proper smokey jollof. You will struggle to find any better in the city although they do have their fair share of issues. The ambience is given an average score but that’s no fault of theirs. Their goal is to give you a setting that’s decent enough to just guzzle down the jollof.
+        It was a close call between them and Kaza rice and while Kaza offer a wider variety we think FJ are easily the kings of jollof in Lagos. Their customer service though can certainly go up a notch; actually a couple of notches. That said, it could just be a case of knowing how good their shit is and saying we don’t care, you will love us either way and we kind of respect that.`,
       proTip:
         "If possible, come to their store and eat there or have it as take out. Ordering through delivery apps is playing a serious game of jollof roulette with your food whether it’s extremely slow delivery or a missing or wrong item.",
       proTipAuthor: "Gideon",
