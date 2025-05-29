@@ -872,6 +872,28 @@ Anyway, if you can get over the horrible road to get there, insanely long wait t
         "Their large chicken pepper soup paired with rice can easily feed four people. Tack on some isiewu and a couple of drinks and you will go home with your bellies almost beyond breaking point. The catfish pepper soup is also pretty lit. Also, once again, you are very much advised to call ahead of time to place your order before getting there.",
       proTipAuthor: "Uju",
     },
+
+    {
+      name: "Slow Lagos",
+      address: "2 Musa Yar' Adua Street, Victoria Island",
+      budgetPerPerson: "80,000",
+      googleMapsLink: "https://maps.app.goo.gl/Qe8a3Qp3V1xngUo28",
+      parking: "Excellent",
+      waitTime: "Fast",
+      openingHours: "10:00am to 12:00am daily ",
+      customerService: "Excellent",
+      ambience: "4.5/5",
+      food: "4.5/5",
+      instagramLink:
+        "https://www.instagram.com/slowlagos?igsh=NWt2Znk1eDhnYTBy",
+      note: `It can be easy to forget some of the blue chip spots in the city and to be fair, we do accept this list is biased towards unique and more frisky spots and experiences. Slow Lagos though deserves to break that theme. They are one of a handful of spots in the city that does everything at a high level and most importantly, they do it consistently.
+      From their Amazon themed lush interior to the top tier cocktails that are also surprisingly generous to the efficient and knowledgeable staff, Slow is a tropical brasserie you can go to again and again and spend your big bucks and not regret it.
+      `,
+      proTip:
+        "Unknown to many, they do have breakfast options for those who do not want to go all out and that starts at 8am. Their chicken serving is also a nice money saver and can feed two to three people - be prepared to wait though, it takes 45 minutes to make",
+      proTipAuthor: "Gideon",
+    },
+
     {
       name: "Sushiholic Lagos",
       address: "Block 26, Delakes Mall, 8 Admiralty Wy, Lekki 105102, Lagos",
