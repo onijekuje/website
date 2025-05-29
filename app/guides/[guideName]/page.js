@@ -1023,8 +1023,10 @@ That said, if you are already close to one of the most prestigious and historic 
             the best places to eat in Lagos, Onijekuje dey for you. If you are
             looking for something a bit more specific, be sure to ask our
             AI-powered recommendation chatbot{" "}
-            <span className="font-bold">
-              <a href="https://imani.onijekuje.com/">Imani</a>
+            <span className="font-bold ">
+              <a href="https://imani.onijekuje.com/" className="underline">
+                Imani
+              </a>
             </span>{" "}
             here.
           </p>
