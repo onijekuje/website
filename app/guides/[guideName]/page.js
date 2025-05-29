@@ -510,10 +510,10 @@ export default function GuidePage({ params }) {
 
     {
       name: "Ile Iyan",
-      address: "Plot 6 Muiz Banire St, Lekki Phase 1, Lekki 100001, Lagos",
+      address: "4a Wole Olateju Crescent, Lekki Phase I",
       budgetPerPerson: "20,000",
-      googleMapsLink: "https://maps.app.goo.gl/1VCTjdabmxm8vgMF8",
-      parking: "Limited",
+      googleMapsLink: "https://maps.app.goo.gl/cx3pnbFoquNsDhtGA",
+      parking: "Average",
       waitTime: "Slow",
       openingHours: "10am to 9pm daily (open 12pm Sundays)",
       customerService: "Good",
@@ -522,8 +522,8 @@ export default function GuidePage({ params }) {
       instagramLink:
         "https://www.instagram.com/ileiyan_ng?igsh=MWI2NzQ1Mzl0MDFqYw==",
       note: ` The true home of pounded yam in Lagos, Ile Iyan is one of the best spots to get authentic Yoruba food and experience in the city. From the waiters being decked out in cultural attire to their dancers, pyrotechnics and horses on their famous Faaji Sundays, they deliver in every way.
-A few points of caution- their indoor space is super small and not one for the claustrophobes and their wait time can be infuriating at times. That said, their portions are sizable for the price and they serve the best pounded yam in the city for us.
-`,
+      With their newly opened larger space, the claustrophobes no longer have to clench their buttholes when they make their way down although their wait time still remains infuriating on occasion. They do still have their older location in Lekki open if anyone wants to walk down.
+      `,
       proTip:
         "Their Faaji Sunday is nice and all but if the razzmatazz doesn’t appeal to you, it is likely you will get better service on a weekday. Ile Iyan quietly is also one of the few places in Lagos where you can get top tier black soup. Their Olowo Eko Combo with egusi/efo riro is  pricey at 18,000 but it is stacked with protein and good value for money.",
       proTipAuthor: "Mofe",
@@ -969,11 +969,11 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       food: "5/5",
       instagramLink:
         "https://www.instagram.com/therusticdeckbarandbistro?igsh=MXVlaTV6ZDZvM3l4eQ==",
-      note: `Currently our best spot in Lagos, the Rustic Deck is a quiet cozy spot located in Lekki Waterside Hotel. We love the ambience here with the dim lights, rustic vibes (surprise surprise) and a nice view of the Lekki-Ikoyi link bridge which is quietly a stunner for pictures if you get the angles right.
+      note: `Our best spot of 2024, the Rustic Deck is a quiet cozy spot located in Lekki Waterside Hotel. We love the ambience here with the dim lights, rustic vibes (surprise surprise) and a nice view of the Lekki-Ikoyi link bridge which is quietly a stunner for pictures if you get the angles right.
       Rustic have a lot of interesting and unique Afro-fusion meals and although they have a somewhat limited menu, pretty much every item here is a proper banger. Somehow, they are still underrated and not properly known, we kind of hope it stays that way. Their drinks are probably the weakest aspect of the restaurant.
       `,
       proTip:
-        "Their chicken lollipops are sensational. We have had them time and time again and without fail, they deliver. The kilishi pasta bowl with slow cooked rabbit is currently our best dish to get in Lagos and while their drinks are hit or miss, the hibiscus ocean is a fav.",
+        "Their chicken lollipops are sensational. We have had them time and time again and without fail, they deliver. The kilishi pasta bowl with slow cooked rabbit is currently our best dish to get in Lagos and while their drinks are hit or miss, the hibiscus ocean is a fav",
       proTipAuthor: "Gideon",
     },
 
