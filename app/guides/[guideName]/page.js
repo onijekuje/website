@@ -9,7 +9,7 @@ export default function GuidePage({ params }) {
       address:
         "Soho Rooftop, 6a Ogbunike St, Lekki Phase 1, Lagos 105102, Lagos",
       googleMapsLink: "https://maps.app.goo.gl/KUicKRNYR9uhqtu87",
-      budgetPerPerson: "35,000",
+      budgetPerPerson: "30,000",
       waitTime: "average",
       openingHours: "12:00 PM - 11:00 PM",
       parking: "Limited",
@@ -19,14 +19,11 @@ export default function GuidePage({ params }) {
       ambience: "4/5",
       food: "4/5",
       note: `Starting off the list, Abeke is a Yoruba themed rooftop spot with popular local meals 
-      served in an upscale setting. You don’t have a wide variety of options across tribes, 
-      but they do a pretty good job with their soups and also some nostalgic meals 
-      like their take on ewa aganyin with toasted agege breadThey are pretty popular right now 
-      and the space is decent but not large so on a really busy day, you might struggle to get a seat.
-      It’s worth the trip regardless and they have paint and sips`,
-      proTip: `The amala is nice but for the price, you might want a bit more protein in it. 
-      Abeke’s drinks though- that is where shit is at. Try their ishekushe martini or adigun 
-      and pair it with their seafood okro or asun penne pasta.`,
+      served in an upscale setting. You don’t have a wide variety of options across tribes, but they do a pretty good job with their soups and also some nostalgic meals like their take on ewa aganyin with toasted agege bread.
+      They also have a Nigerian brunch menu every weekend between 12pm and 4pm and while the space is decent, on a really busy day, you might struggle to get a seat. Regardless, it’s worth the trip and they have paint and sips. 
+`,
+      proTip: `Try their ishekushe martini or adigun and pair it with their seafood okro or asun penne pasta. 
+      If you want something a bit more niche and cultural, their abule rice with smoked fish is a great pick`,
       proTipAuthor: "Mofe",
     },
     {
@@ -41,15 +38,14 @@ export default function GuidePage({ params }) {
       ambience: "5/5",
       food: "5/5",
       instagramLink: "https://www.instagram.com/ajojelagos",
-      note: `Ajoje- meaning to share is one of the most wholesome experiences you will find in Lagos.
-       Their bread and butter is private dinings with your groups where Chef Kewa serves some of the most 
-       innovative and delicious Afro-fusion meals you will find in the city.\n\n
-       The portions are huge as well and Ajoje is more than just a dining experience, 
-       it is an invitation into the heart of Nigerian hospitality with their wooden homely ambience.`,
+      note: `Ajoje- meaning to share is one of the most wholesome experiences you will find in Lagos. Their bread and butter is private dinings with your groups where Chef Kewa’s ever changing menu has some of the most innovative and delicious Afro-fusion meals you will find in the city. 
+        The portions are huge as well and Ajoje is more than just a dining experience, it is an invitation into the heart of Nigerian hospitality with their wooden homely ambience. For those who do not want to go private, you can choose either their social brunch or dinner.
+      `,
       proTip: `It is expensive, but ideally, book this out with your group rather than going for the singles 
-      - you get the full experience that way. It is difficult to get a singles ticket but yes, they do exist. Keep an eye out for that monthly.`,
+      - you get the full experience that way. If you do want a singles ticket, keep an eye out for that monthly or join their waiting list. Do note 50% payment is required upon booking confirmation`,
       proTipAuthor: "Gideon",
     },
+
     {
       name: "Akerele Suya",
       address: "Akerele St, Surulere, Lagos 101241, Lagos",
@@ -89,9 +85,9 @@ export default function GuidePage({ params }) {
 
     {
       name: "Atije Experience",
-      address: "Private",
+      address: "14F Obi Achebe Drive, Edgewater Estate, Lagos",
       budgetPerPerson: "75,000",
-      googleMapsLink: "NA",
+      googleMapsLink: "https://maps.app.goo.gl/dBZiLokMgHbuRmHN7",
       parking: "Good",
       waitTime: "Fast",
       openingHours: "N/A",
@@ -102,8 +98,7 @@ export default function GuidePage({ params }) {
       note: ` Atije- meaning how we eat is a private five course culinary experience with wine and juice pairing. 
       This is just as intimate an experience as Ajoje albeit with smaller but just as tasty portions of good.
        The menu here is largely African themed with Chef Moyo and co drawing strong inspiration from their native roots.
-       You also get pretty much unlimited drinks of your choice be it wine or juice and there’s a fun moment in the middle when you cleanse your palate- no spoilers. Typically, this holds twice a month, although sometimes they stretch it out to four, and tickets sell out pretty quickly so keep an eye for that.  
-       `,
+       You also get pretty much unlimited drinks of your choice be it wine or juice and there’s a fun moment in the middle when you cleanse your palate- no spoilers. They now have four slots every month but tickets go out pretty fast.`,
       proTip:
         "While better enjoyed with a partner or a group, it is a lot easier to go alone here. The smaller space encourages interaction and after having a glass or two of wine (wink wink), everyone loosens up.",
       proTipAuthor: "Mofe",
@@ -191,28 +186,28 @@ export default function GuidePage({ params }) {
       name: "Canvas Concept Space",
       address:
         "36 Rasheed Alaba Williams Street, Lekki Phase 1, Lekki 105102, Lagos",
-      budgetPerPerson: "50,000",
+      budgetPerPerson: "40,000",
       googleMapsLink: "https://maps.app.goo.gl/dtxDatza1S41Nxia6",
-      parking: "Limited",
-      waitTime: "Average",
+      parking: "Good",
+      waitTime: "Fast",
       openingHours: "Variable (call to reserve)",
       customerService: "Excellent",
       ambience: "4/5",
-      food: "5/5",
+      food: "4/5",
       instagramLink:
         "https://www.instagram.com/canvas.cs?igsh=MTJ2YTlvcHA0bXEzZw==",
       note: `Canvas Concept Space is a contemporary dining space focused on celebrating West African cuisine. They are a bit of a weird one with varied opening times and different menus- one for cocktail drinking, one for lunch and another for brunch. Also, you can walk in if you want something to have with their cocktails but you have to reserve for full on dining. Their quirkiness aside, Canvas is currently the best place to get drinks in Lagos.
       Their space is also pretty cozy and the food excellent. Just like Elysium (spoiler alert), they pride themselves in sourcing their ingredients locally from around the country. You will also find events being hosted here regularly and they cover private dining bookings as well.
       `,
       proTip:
-        "Probably give them a call or send a DM on IG before going. They are pretty fluid with their rules. Their guinea fowl focaccia sandwich - divine.",
+        "Probably give them a call or send a DM on IG before going. They are pretty fluid with their rules. They have a very chic private lounge for members only and don’t leave without trying their guinea fowl focaccia sandwich - divine.",
       proTipAuthor: "Mofe",
     },
     {
       name: "Chinatown Restaurant",
       address:
         "Mega Plaza, 14B Idowu Martins St, Victoria Island, Lagos 106104, Lagos",
-      budgetPerPerson: "20,000",
+      budgetPerPerson: "15,000",
       googleMapsLink: "https://maps.app.goo.gl/idLb9Npe559h2m998",
       parking: "Good",
       waitTime: "Average",
@@ -303,9 +298,9 @@ export default function GuidePage({ params }) {
       food: "4.5/5",
       instagramLink:
         "https://www.instagram.com/dani.restaurant?igsh=MXAweHJkOXo5bWhoOA==",
-      note: `Dulce Cafe has been one of our favs since Kajal (the owner) had a mom and pop shop selling pastries. They have now expanded to become a full on restaurant and we love the open space ambience here. It feels very free and loose, like a place you can just hang out with a date with no pressure. 
+      note: `Dulce Cafe has been one of our favs since Kajal (the owner) had a mom and pop shop selling pastries. They have now become a full on restaurant and we love the open space ambience here. It feels very free and loose, like a place you can just hang out with a date with no pressure. 
       Their pastries are up there with any in Lagos and their coffee options are also very solid. We feel the further you stretch away from their core (e.g. ordering some pasta), it starts getting a bit weaker. That said, they still get the majority of their dishes absolutely right. 
-      `,
+      Dulce have also expanded their previously cramped up indoor space making this a great spot for groups`,
       proTip:
         "Don’t leave without getting the cinnamon rolls or chicken pesto sandwich. They also have an unlimited cocktail deal Wed–Fri (5pm–8pm).",
       proTipAuthor: "Gideon",
@@ -332,6 +327,47 @@ export default function GuidePage({ params }) {
       proTipAuthor: "Mofe",
     },
     {
+      name: "Film and Dine by Minji",
+      address: "Private",
+      budgetPerPerson: "85,000",
+      googleMapsLink: "NA",
+      parking: "Good",
+      waitTime: "NA",
+      openingHours: "Variable",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "4.5/5",
+      instagramLink:
+        "https://www.instagram.com/minjilagos?igsh=MWUxeng0aHNpazdheg==",
+      note: ` Film and Dine by Minji is an immersive experience that is a wet dream for cinephiles and foodies. You get to watch a classic movie and then a three to four course event with food matching what is on screen is delivered. It holds once a month and when you book, you will get more details. As with a lot of private or semi-private dining events on this list, you have to keep a look out for tickets. 
+    We love that they throw in conversation cards which enhance the experience and you have an option for romantic couples or just friends (ahem…friendzone). A single ticket goes for 85,000 but a ticket as a duo goes for 160,000
+    `,
+      proTip:
+        "Come with a hungry belly and preferably someone whose presence you can stomach - a couple of hours can be a long time with the wrong person",
+      proTipAuthor: "Community",
+    },
+
+    {
+      name: "Fired and Iced",
+      address: "Plot 28, 77 Admiralty Way, Lekki Phase I, Lagos",
+      budgetPerPerson: "40,000",
+      googleMapsLink: "https://maps.app.goo.gl/6mtB2xhLivHZipVf9",
+      parking: "Average",
+      waitTime: "Average",
+      openingHours: "6pm to 1am (Wednesday to Sunday) ",
+      customerService: "Excellent",
+      ambience: "4/5",
+      food: "4/5",
+      instagramLink:
+        "https://www.instagram.com/firedandicedlagos?igsh=ZG42bDYyZzM0cjJn",
+      note: `Run by one of the best chefs in Lagos, it’s no surprise Imoteda’s Fired and Iced makes the list. It’s an upscale grills joint with a cozy indoor and a vibrant outdoor setting, most especially at night. You can check out their live band sessions on Friday or karaoke on Wednesday night.
+      True to the name, every dish on the menu is literally fired up with a grill and every drink is iced out more than Game wearing a Jesus piece. It’s always been a big theme for Imoteda owned spots to push meals that can be shared by large groups and Fired and Iced is no different.  They also have live bands every Friday and karaoke
+      `,
+      proTip:
+        "We definitely recommend the pork ribs and Imoteda’s bowl with mashed potatoes and if you get the Lisa cocktail, it pairs perfectly with the chef’s signature dish.",
+      proTipAuthor: "Dese",
+    },
+    {
       name: "Firewood Jollof",
       address: "10 Admiralty Way, Lekki Phase 1, Lagos 105102, Lagos",
       budgetPerPerson: "5,000",
@@ -351,51 +387,30 @@ export default function GuidePage({ params }) {
       proTipAuthor: "Gideon",
     },
     {
-      name: "Galaxy Pizza",
-      address: "31B Oju Olobun Cl, Local, Victoria Island, Lagos 101241, Lagos",
+      name: "Forno Lagos",
+      address: "9 Otunba Adedoyin Ogungbe Crescent, Lekki Phase 1",
       budgetPerPerson: "30,000",
-      googleMapsLink: "https://maps.app.goo.gl/jWX4xKVX3T5DeCjJA",
-      parking: "Good",
+      googleMapsLink: "https://maps.app.goo.gl/NUZrCZeFXj1fLbDDA",
+      parking: "Excellent",
       waitTime: "Fast",
-      openingHours: "10am to 10pm daily",
-      customerService: "Good",
-      ambience: "3.5/5",
-      food: "5/5",
-      instagramLink:
-        "https://www.instagram.com/galaxypizza_lagos?igsh=MWk0MG9tbGxzazJrYw==Z§",
-      note: `So you know how we said Dough was our fav pizza spot at the moment. Yeah, Galaxy Pizza is right behind them and hot on their heels. These guys offer some unique options ranging from tandoori spicy chicken to shrimp scampi pizza.
-      Their milkshakes are also very solid and decently priced as well. It does cost a bit more than the average pizza in Lagos (less than Dough however) but it is worth every penny. Bonus point for them- they have a very large sitting area that can host large groups as well as an outdoor spot
-      `,
-      proTip:
-        "Their broadway fajita pizza and philly cheese steak sub are two things you must absolutely try before leaving.",
-      proTipAuthor: "Uju",
-    },
-    {
-      name: "Grey Matter Social Space",
-      address:
-        "21C Akin Ogunlewe Rd, off Ligali Ayorinde Street, Victoria Island, Lagos 101241, Lagos",
-      budgetPerPerson: "35,000",
-      googleMapsLink: "https://maps.app.goo.gl/snEqUKv3AwNg9t3s7",
-      parking: "Bad",
-      waitTime: "Average",
-      openingHours: "11am to 12am daily (closed Mondays)",
-      customerService: "Good",
+      openingHours: "12pm to 10pm (close 12am on weekends) ",
+      customerService: "Excellent",
       ambience: "4/5",
       food: "4.5/5",
       instagramLink:
-        "https://www.instagram.com/greymatter.social?igsh=MWVxanA0MTZmc3h1eA==",
-      note: `Grey Matter Social Space might be the most treasured spot to go in Lagos for their cocktails. Aside from that, they have a really large space- like a really large crowd can fit in here and they will probably be fine. They have a private cigar lounge and a rooftop spot as well.
-      Do note their drinks are pretty heavy on the gin but their food in keeping with the theme of being a communal space has very large portions and is quite shareable. They also routinely have events here.
-      `,
+        "https://www.instagram.com/forno.ng?igsh=MTh0amlkN3NoYWt5bQ==",
+      note: `Our second favourite pizza spot in town, you already know any place run by The Smith Sisters is going to deliver, most especially with the cocktails. Forno is a gorgeous spot that might as well be from a scene in the Godfather with the greenery complementing the minimalist theme. 
+    They are also one of the few spots on here with valet parking so you don’t have to rack your brain about that as you head down. To be honest, given the decent pricing, Forno is a quiet sweet option for a first date with no pressure on either party and if you see more red flags than a Ruger song, your pocket doesn’t take a huge hit
+    `,
       proTip:
-        "There’s a lot of great food here but we will probably go for their sweet potato and goat croquettes as starters, smoked turkey/chef’s fried chicken as a main and Imoteda’s bowl for dessert. If you want to be straight up knocked out with your group, try their holiday at the hive sangria. Careful though- you might not make it home. ",
-      proTipAuthor: "Dese",
+        "Their hot honey diavola is just a smidge below the hot salami at Dough Bar and their spiked drinks get you just right on the edge without tilting you over so a great pick for those who just want a buzz.",
+      proTipAuthor: "Uju",
     },
     {
       name: "Griddle and Roast",
       address:
         "9b Prince Adelowo Adedeji St, off Admiralty Way, Lekki Phase 1, Lagos 100001, Lagos",
-      budgetPerPerson: "35,000",
+      budgetPerPerson: "25,000",
       googleMapsLink: "https://maps.app.goo.gl/DRXdy3oSubtZGUhE7",
       parking: "Good",
       waitTime: "Average",
@@ -449,27 +464,27 @@ export default function GuidePage({ params }) {
       The food is made with love and you can taste the effort in the detail Chef Nkesi has put in. On Mondays, between 10am and 4pm, they also offer takeout only options. Also, on Thursdays, they have a pasta and sangria night between 4pm and 10pm where all pasta goes for 10,000 and a pitcher of sangria goes for 6,500
       `,
       proTip:
-        "Not too many meals miss the spot here if any. If we could pick a couple of the top hits, their salmon and lasagna will definitely be up there. Their pasta and sangria night also offers super value",
+        "Not too many meals miss the spot here if any. If we could pick a couple of the top hits, their salmon and lasagna will definitely be up there. They also have a meal of the month which tends to be something different but you have to specifically request for that.",
       proTipAuthor: "Gideon",
     },
     {
-      name: "Ile Eros",
-      address:
-        "14 Kafayat Abdulrasaq Street, Lekki Phase I, Lagos 106104, Lagos",
-      budgetPerPerson: "30,000",
-      googleMapsLink: "https://maps.app.goo.gl/xXkbQfeBzYhQSRGV7",
-      parking: "Limited",
-      waitTime: "Average",
-      openingHours: "10am to 10pm daily",
+      name: "Igbadun",
+      address: "Private",
+      budgetPerPerson: "55,000",
+      googleMapsLink: "NA",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "NA",
       customerService: "Good",
-      ambience: "4/5",
+      ambience: "3.5/5",
       food: "4/5",
-      instagramLink: "https://www.instagram.com/ile.eros?igsh=MWt1c3dqbHJzMGlk",
-      note: ` As you will come to see across this list, in addition to unique private dining places, we have a real soft spot for restaurants that try to play around with Afro-fusion. Ile Eros is run by the superstar Chef Eros who has always been one to push the needle. 
-      From zobo habanero ribs to tozo ragu to more common local stuff like amala and seafood okro, Ile Eros has always been daring and even though they have a few misses, you will be taking on a proper journey across West African cuisine
+      instagramLink:
+        "https://www.instagram.com/igbadun__?igsh=MTdrYXMwNm04NWJtaA==",
+      note: `Igbadun which translates to enjoyment is an interesting project spearheaded by Chef Disu - think of a combination of Atije and Anu Bello’s sip and cook. It is an immersive culinary experience which includes a pasta making class, unlimited wine and some of the most delicious gourmet canapes you will ever have in Lagos. This holds on the third weekend of every month there are a limited number of spots so fastest fingers first for reservation. 
+      From asun ravioli to ikpekere guacamole, they get creative with meals here and with the wine ever flowing, you are in for a good time, but a gym workout or two would come in handy for when you are grinding away on the pasta
       `,
       proTip:
-        "Their plantain lasagna is unbelievably good- like ‘make my shit every time i come here chef’ good. We don’t eat amala but generally the community prefers a bit more meat in their abula for the price.",
+        "Don’t worry if you are a shit cook; Chef Disu guides you pretty expertly. Try to go with a couple of your friends or loved ones so when you inevitably do your best to screw up the pasta, the banter can be elite.",
       proTipAuthor: "Dese",
     },
     {
@@ -533,7 +548,7 @@ Their customer service is legendary here and the ambience is filled with some ma
       name: "Kaly",
       address:
         "No.1 Building, 7th Floor, 1 Akin Adesola Street off Ahmadu Bello way Number One, Victoria Island, Lagos",
-      budgetPerPerson: "90,000",
+      budgetPerPerson: "100,000",
       googleMapsLink: "https://maps.app.goo.gl/3862MLMLbVKwtSjLA",
       parking: "Good",
       waitTime: "Fast",
@@ -550,27 +565,7 @@ Their rooftop view is lovely and the food does not lag far behind as well. Yes, 
         "Kaly excel with their steak options- it’s a tough one but our fav is probably their ribeye. They also have a business lunch available on weekdays till 4pm which comes with two courses and is priced at 59,000 so you can save a little bit with that.",
       proTipAuthor: "Uju",
     },
-    {
-      name: "Little Italy",
-      address:
-        "Ile Oja, Sanusi Fafunwa Street, Victoria Island, Lagos 106104, Lagos",
-      budgetPerPerson: "20,000",
-      googleMapsLink: "https://maps.app.goo.gl/vqzMEWyH9Jqf7bDM6",
-      parking: "Good",
-      waitTime: "Fast",
-      openingHours: "12pm to 9pm (closed Mondays)",
-      customerService: "Good",
-      ambience: "4/5",
-      food: "4.5/5",
-      instagramLink:
-        "https://www.instagram.com/littleitalylagos?igsh=dWQ5anRxZmYzbjhu",
-      note: ` If there’s a restaurant in Lagos that is super true to their name, Little Italy will be right at the top. It’s a super small spot that quietly delivers some of the best Italian food you will find in Lagos. They are a bit difficult to find, you will have to park across the street in the complex and then walk across- look out for Ile Oja and you will be fine.
-We kind of like how toned down and simple the menu is and they also sell ingredients you can use for cooking. It might get a bit uncomfortable here when there is a whiff of a crowd though.
-`,
-      proTip:
-        "Their brioche with nutella is really good and their lasagna is…chef’s kiss. We feel their pizza is a bit hit or miss but they offer pizza discounts on Saturday and pasta nights on Thursdays.",
-      proTipAuthor: "Dese",
-    },
+
     {
       name: "Mama Toyin Foods",
       address: "47 Arolowun street, Onipanu, Ikeja 102215, Lagos",
@@ -613,44 +608,27 @@ There’s also a large screen in the Green House court so if you come here on a 
     },
     {
       name: "Milk and Honey / Gather House",
-      address:
-        "47 Admiralty Road, Lekki Phase 1, and 38 Norman Williams St, Ikoyi, Lagos 101233, Lagos",
-      googleMapsLink: "https://maps.app.goo.gl/tJY9W4B4EJLjm4n5A",
+      address: "1, Macpherson Avenue, Ikoyi",
+      googleMapsLink: "https://maps.app.goo.gl/omvWcNY1eypgJi2V9",
       budgetPerPerson: "15,000",
       googleMapsLink: "https://maps.app.goo.gl/tJY9W4B4EJLjm4n5A",
       parking: "Limited",
       waitTime: "Average",
       openingHours: "7am to 8pm",
       customerService: "Good",
-      ambience: "4/5",
+      ambience: "4.5/5",
       food: "5/5",
       instagramLink:
         "https://www.instagram.com/milkandhoneylagos?igsh=MXg5b2k4dWF6NjFmcw==",
       note: `Run by the awesome Chef Livvy, Milk and Honey is currently our best place to get pastries and probably milkshakes in the city. The quality of products is absolutely top-tier and you should definitely get on the hype train.
-From their lotus biscoff to their caramel milkshakes, the richness and creaminess is divine. We also decided to include Gather House here as it is another place to get Milk and Honey products in a slightly larger but just as chic setting. Do note that the original Milk and Honey location is pretty small so you might not get in if a large group is there.
-`,
+      They have a larger, open space that's soothing for the mind.
+    From their lotus biscoff to their caramel milkshakes, the richness and creaminess is divine. We also decided to include Gather House here as it is another place to get Milk and Honey products in a chic setting.
+    `,
       proTip:
         "Straying a little bit away from food, Gather House is also a great communal space to get female owned products, gift boxes and they host a monthly supper club. When in Milk and Honey, don’t leave without trying their caramel or biscoff milkshakes but honestly pretty much everything on this menu is too good.",
       proTipAuthor: "Mofe",
     },
-    {
-      name: "Noir Lagos",
-      address: "4A Akin Olugbade St, Victoria Island, Lagos 101241, Lagos",
-      budgetPerPerson: "100,000",
-      googleMapsLink: "https://maps.app.goo.gl/WipnvUCL1xnubVde8",
-      parking: "Good",
-      waitTime: "Fast",
-      openingHours: "12pm to 11pm daily",
-      customerService: "Excellent",
-      ambience: "4/5",
-      food: "4.5/5",
-      instagramLink:
-        "https://www.instagram.com/noirlagos?igsh=amg5Y2NqOWY3NHRq",
-      note: "Noir is a French themed restaurant (I mean duh, look at the name) that gets in because it fits into the ‘gets a lot of things right’ category. Their decor is elegant, service impressive and food divine. Their welcome bread basket however kind of needs work- a bit uninspiring especially compared to the rest of the spot. Noir also has a private dining room if that’s something you need.",
-      proTip:
-        "You can get your steak cooked live in front of you at the table black rock style. Try out their filet mignon or ribeye",
-      proTipAuthor: "Community",
-    },
+
     {
       name: "Nok Lagos",
       address: "12A Akin Olugbade Street, Victoria Island, Lagos 106104, Lagos",
@@ -690,26 +668,6 @@ From their lotus biscoff to their caramel milkshakes, the richness and creamines
       proTip:
         "Many native spots in Lagos surprisingly do not do well with palm wine but that’s usually one of their high points. Get the seafood okro too if you can.",
       proTipAuthor: "Gideon",
-    },
-    {
-      name: "Ofe Uto",
-      address:
-        "3rd floor, Westbrook mall, 4th roundabout, beside enyo filling station, Lekki Penninsula II, Lekki 106104, Lagos",
-      budgetPerPerson: "20,000",
-      googleMapsLink: "https://maps.app.goo.gl/hq5v3QfVXcmh7GNM8",
-      parking: "Good",
-      waitTime: "Slow",
-      openingHours: "10am to 10pm",
-      customerService: "Good",
-      ambience: "3.5/5",
-      food: "4/5",
-      instagramLink: "https://www.instagram.com/ofeuto?igsh=Mmh1ZHNvdHlkcmpt",
-      note: `Ofe Uto is one of the few spots that offers authentic Eastern food in Lagos. Literally meaning sweet soup, they more than deliver when it comes to the taste. From ofe nsala to onugbu to fisherman soup, the quality of taste here is proper. 
-The crowd there tends to be crazy these days so you might have to wait a bit for food to come out. If you catch them on a quiet day though, it's a very sweet spot. They also do a good job with the ambience from the waiters who don traditional attire to the Igbo ornaments laid around, although do note the space can be a bit small.
-`,
-      proTip:
-        " Definitely don’t leave without trying out their fisherman soup. It’s one of their best sellers and on Sundays, they also have their traditional day where dancers come and entertain.",
-      proTipAuthor: "Uju",
     },
     {
       name: "Rhodes BBQ Smokehouse",
@@ -915,6 +873,26 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       proTipAuthor: "Mofe",
     },
     {
+      name: "Top Beans Coffee and More",
+      address: "Fourteen366 Mall 1436 Sanusi Fafunwa Street, Victoria Island",
+      googleMapsLink: "https://maps.app.goo.gl/YHjVtciUNshjMwTm7",
+      budgetPerPerson: "15,000",
+      parking: "Excellent",
+      waitTime: "Fast",
+      openingHours: "7am to 6pm (closed on Sundays) ",
+      customerService: "Excellent",
+      ambience: "4.5/5",
+      food: "4/5",
+      instagramLink:
+        "https://www.instagram.com/sushi.bbqholic.lagos?igsh=aXNpdG82YnNheWpn",
+      note: `So we generally shy away from including franchises but we really had to make an exception for Top Beans. They have a couple of branches across Lagos including in Ikeja for you, yes you mainland person whose blood is already getting hot. 
+      They have maybe the most diverse range of coffee options we have seen in the city be it their Vietnamese coffee or Japanese hot chocolate and you can tell from the taste they do not compromise on quality. If you need a place to lock in to meet your work goals for Q2, it’s an excellent option
+    `,
+      proTip:
+        "If you leave here without trying out their pulled lamb sandwich, please just order that Uber and start heading back. Their pumpkin cake is unbelievably good and for coffee nerds looking for something unique, try the syphon brew.",
+      proTipAuthor: "Mofe",
+    },
+    {
       name: "The Ona Lagos",
       address: "1701 Violet Yough Close, Victoria Island, 106104, Lagos",
       budgetPerPerson: "80,000",
@@ -955,27 +933,7 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
         "Their chicken lollipops are sensational. We have had them time and time again and without fail, they deliver. The kilishi pasta bowl with slow cooked rabbit is currently our best dish to get in Lagos and while their drinks are hit or miss, the hibiscus ocean is a fav.",
       proTipAuthor: "Gideon",
     },
-    {
-      name: "The Wine Lab",
-      address:
-        "11a, Goriola Street, Off Adeola Odeku, Victoria Island 106104, Lagos",
-      budgetPerPerson: "60,000",
-      googleMapsLink: "https://maps.app.goo.gl/A2atVzUZvFBwnrXAA",
-      parking: "Limited",
-      waitTime: "Average",
-      openingHours: "12:00pm to 12:00am daily",
-      customerService: "Excellent",
-      ambience: "4.5/5",
-      food: "4.5/5",
-      instagramLink:
-        "https://www.instagram.com/thewinelabrestaurant?igsh=cGIwcWp5a3lpcHZn",
-      note: `The Wine Lab is a chic and gorgeous spot nestled away in Victoria Island. When outside, you might as well be in the garden of a little village in Sicily and the interior does not disappoint as well. True to their name, they have an extensive wine collection- maybe the most in Lagos 
-One of the fav things about Wine Lab is their wine tasting experience which you can pair with some of their bussin’ food. You get five glasses of wine given to you by their sommelier and are given a masterclass from the history of wine to how to properly drink it.
-`,
-      proTip:
-        "Their sommelier Joshua is probably the most fun person to do the wine tasting with and this is one of the nicest dating experiences you will find in the city. If you are looking for something to pair with the wine tasting, you can try out their seafood platter or if you want something a bit cute, their cheese platter. ",
-      proTipAuthor: "Dese",
-    },
+
     {
       name: "Wakame Asian Kitchen and Lounge",
       address:
@@ -1034,7 +992,7 @@ That said, if you are already close to one of the most prestigious and historic 
             to go eat in Lagos with time ticking away relentlessly, you are in
             the right place. The Onijekuje Team has come together to give you a
             Johnny Just Come guide to eating out in Lagos and this is also so
-            you all would let our DMs rest. Here are 50 experiences we feel
+            you all would let our DMs rest.Here are 50 experiences we feel
             everyone in the city should try out. These are not necessarily the
             50 best places in Lagos- just varied experiences that every Lagosian
             or visitor should tick off before leaving. We also left some cute
@@ -1061,9 +1019,14 @@ That said, if you are already close to one of the most prestigious and historic 
             />
           ))}
           <p className="text-gray-600 leading-relaxed mt-10">
-            So hope this list helps a bit and if you have any feedback, please
-            let us know in the comments. Rest assured when it comes to finding
-            the best places to eat in Lagos, Onijekuje dey for you.
+            So hope this list helps and rest assured when it comes to finding
+            the best places to eat in Lagos, Onijekuje dey for you. If you are
+            looking for something a bit more specific, be sure to ask our
+            AI-powered recommendation chatbot{" "}
+            <span className="font-bold">
+              <a href="https://imani.onijekuje.com/">Imani</a>
+            </span>{" "}
+            here.
           </p>
         </div>
       </div>
