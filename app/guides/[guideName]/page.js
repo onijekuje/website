@@ -488,6 +488,27 @@ export default function GuidePage({ params }) {
       proTipAuthor: "Dese",
     },
     {
+      name: "Ile Mimu",
+      address: "Private",
+      budgetPerPerson: "Private",
+      googleMapsLink: "NA",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "NA",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "4/5",
+      instagramLink:
+        "https://www.instagram.com/ile_mimu?igsh=MWtncG9nMXZhc2EzcA==",
+      note: `Ile Mimu might just be the strangest spot on the list. Meaning house of Mimu, it is a secret Yoruba themed rooftop bar with a killer view. The decor of this place is like a shrine - something straight out of Death and the King’s Horseman stage play with pieces inspired by the founder’s travels.
+      Here’s the catch - not only is it reservation only, reserving does not necessarily get you in. It’s a quasi social club where they kind of deem you worthy or not or you get in by being invited by someone already in. If you do get in though, the traditional themed drinks like their ogogoro are amazing and the food ain’t half bad either.
+  `,
+      proTip:
+        " In keeping with the theme of this spot, the pro-tip shall stay silent to complete the strangeness. We shall allow you to explore this adventure all by yourself…if you get in",
+      proTipAuthor: "Gideon",
+    },
+
+    {
       name: "Ile Iyan",
       address: "Plot 6 Muiz Banire St, Lekki Phase 1, Lekki 100001, Lagos",
       budgetPerPerson: "20,000",
