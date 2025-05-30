@@ -249,7 +249,7 @@ export default function GuidePage({ params }) {
       address: "7b Wole Ariyo St, off Admiralty Way, Lekki Phase 1, Lagos",
       budgetPerPerson: "7,000",
       googleMapsLink: "https://maps.app.goo.gl/RMrPnfmjrEv9bjwLA",
-      parking: "Limited",
+      parking: "Average",
       waitTime: "Fast",
       openingHours: "9am to 9pm (open 11am on Sunday)",
       customerService: "Good",
@@ -258,7 +258,7 @@ export default function GuidePage({ params }) {
       instagramLink:
         "https://www.instagram.com/debascreamery?igsh=eDQyamY3NGFkNnNw",
       note: `So we had space for only one ice cream slot and while we probably felt that pound for pound, Hans and Rene have the best ice cream in Lagos, Deba’s aren’t too far behind and give you a wider variety. Also, Hans and Rene have some very weird picture policy, which for an ice cream spot…like really, what are we doing here.
-      From popsicles to banana bread to waffles to milkshakes, Deba’s hit on most of their items and they also experiment a lot which we admire. If you ever need bulk orders and event coverage, they could also help out and all these combined- that’s why we leaned their way
+      From popsicles to banana bread to waffles to milkshakes, Deba’s hit on most of their items and they also experiment a lot which we admire. They also have this interesting cake in a can concept that’s a lot more hype than actual quality but hey, can’t fault them for trying something different.
       `,
       proTip:
         "Combine their warm and tasty banana bread with some scoops of ice cream. If you are unsure of what to order, ask Yinka for recommendations.",
@@ -528,23 +528,7 @@ export default function GuidePage({ params }) {
         "Their Faaji Sunday is nice and all but if the razzmatazz doesn’t appeal to you, it is likely you will get better service on a weekday. Ile Iyan quietly is also one of the few places in Lagos where you can get top tier black soup. Their Olowo Eko Combo with egusi/efo riro is  pricey at 18,000 but it is stacked with protein and good value for money.",
       proTipAuthor: "Mofe",
     },
-    {
-      name: "Ite",
-      address: "8 The Providence St, Lekki Phase I, Lekki 106104, Lagos",
-      budgetPerPerson: "30,000",
-      googleMapsLink: "https://maps.app.goo.gl/rDviyKJijQtn9uXy6",
-      parking: "Good",
-      waitTime: "Slow",
-      openingHours: "11am to 10pm daily",
-      customerService: "Good",
-      ambience: "4/5",
-      food: "4/5",
-      instagramLink: "https://www.instagram.com/my.ite?igsh=ZTg1MnEybnh4cHRs",
-      note: "If you can get beyond their laughably long and ridiculous wait time, My Ite is one of the best places to get local food in Lagos with a nice variety. The ambience here gives native vibes and with the artworks all around you, it feels very contemporary. Their portion sizes like most of the native spots on this list are very generous.",
-      proTip:
-        "Their seafood okro is probably the best in Lagos for us and it’s a large ass bowl that two can share. You can also try their nkwobi or catfish peppersoup and you are unlikely to be disappointed.",
-      proTipAuthor: "Dese",
-    },
+
     {
       name: "Jamski",
       address: "8A Ologun Agbaje St, Victoria Island, Lagos 106104, Lagos",
@@ -1014,6 +998,25 @@ That said, if you are already close to one of the most prestigious and historic 
       proTip:
         "Everything is good here but their gizzard and chicken suya- we feel this is on another level.",
       proTipAuthor: "Gideon",
+    },
+    {
+      name: "White Garden Chinese Restaurant",
+      address: "34 Balarabe Musa Crescent, Victoria Island",
+      budgetPerPerson: "40,000",
+      googleMapsLink: "https://maps.app.goo.gl/3sjQGzrQuNpcRge58",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "11:00am to 10:00am daily",
+      customerService: "Good",
+      ambience: "3/5",
+      food: "5/5",
+      instagramLink: "NA",
+      note: `A very late addition and one of the few places on the list we have not been to at least once but White Garden got the rare Eat Drink and Foodie in Lagos rubber stamp so you already know you are in safe hands. They are one of the few places that offer a top-tier hotspot experience in the city.
+      With a sauce bar that deserves its place in the Lagos House of Assembly and a spot great for groups, you can forgive their often slightly confused waiters who don’t always seem so sure of what exactly is sold but to be fair, they do make up for it with their over-exuberant enthusiasm
+    `,
+      proTip:
+        "Their dual flavoured ying yang spot is pretty highly rated and the claypot duck, black bean short ribs, and yanzong fried rice are a must try. Also, shout out to them for their generous portions for real.",
+      proTipAuthor: "Dese",
     },
   ];
 
