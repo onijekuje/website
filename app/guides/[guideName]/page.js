@@ -1020,7 +1020,7 @@ That said, if you are already close to one of the most prestigious and historic 
           </h1>
           <div className="gap-1 w-full mb-5">
             <p className="text-gray-700 text-xs w-full bg">
-              Last updated : {moment("2025-12-11").format("MMM D, YYYY")}
+              Last updated: {moment("2025-12-11").format("MMM D, YYYY")}
             </p>
           </div>
           <p className="text-gray-600 leading-relaxed mb-10">
