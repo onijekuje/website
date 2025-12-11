@@ -9,7 +9,7 @@ export default function GuidePage({ params }) {
       address:
         "Soho Rooftop, 6a Ogbunike St, Lekki Phase 1, Lagos 105102, Lagos",
       googleMapsLink: "https://maps.app.goo.gl/KUicKRNYR9uhqtu87",
-      budgetPerPerson: "30,000",
+      budgetPerPerson: "40,000",
       waitTime: "average",
       openingHours: "12:00 PM - 11:00 PM",
       parking: "Limited",
@@ -18,22 +18,19 @@ export default function GuidePage({ params }) {
         "https://www.instagram.com/abeke_rooftop?igsh=dDRic29lam54a3Zm",
       ambience: "4/5",
       food: "4/5",
-      note: `Starting off the list, Abeke is a Yoruba themed rooftop spot with popular local meals 
-      served in an upscale setting. You don’t have a wide variety of options across tribes, but they do a pretty good job with their soups and also some nostalgic meals like their take on ewa aganyin with toasted agege bread.
-      They also have a Nigerian brunch menu every weekend between 12pm and 4pm and while the space is decent, on a really busy day, you might struggle to get a seat. Regardless, it’s worth the trip and they have paint and sips. 
-`,
+      note: `Starting off the list, Abeke is a Yoruba themed rooftop spot that has remained one of our go-to spots for local food in an upscale setting. You might not have as wide a variety of options across tribes as you would find at other spots, but Abeke does a pretty good job with their soups and also some nostalgic meals like their take on ewa aganyin with toasted agege bread. They also have a Nigerian brunch menu every weekend and while the space is decent, on a really busy day, you might struggle to get a seat.`,
       proTip: `Try their ishekushe martini or adigun and pair it with their seafood okro or asun penne pasta. 
       If you want something a bit more niche and cultural, their abule rice with smoked fish is a great pick`,
-      proTipAuthor: "Mofe",
+      proTipAuthor: "Gideon",
     },
     {
       name: "Ajoje",
       address: "Private",
       googleMapsLink: "NA",
       budgetPerPerson: "100,000",
-      parking: "Limited",
+      parking: "Average",
       waitTime: "Fast",
-      openingHours: "N/A",
+      openingHours: "Reservations only",
       customerService: "Excellent",
       ambience: "5/5",
       food: "5/5",
@@ -43,15 +40,15 @@ export default function GuidePage({ params }) {
       `,
       proTip: `It is expensive, but ideally, book this out with your group rather than going for the singles 
       - you get the full experience that way. If you do want a singles ticket, keep an eye out for that monthly or join their waiting list. Do note 50% payment is required upon booking confirmation`,
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Mofe",
     },
 
     {
       name: "Akerele Suya",
       address: "Akerele St, Surulere, Lagos 101241, Lagos",
       googleMapsLink: "https://maps.app.goo.gl/YFiWpyxBhiXsmYTw8",
-      budgetPerPerson: "3,000",
-      parking: "Limited",
+      budgetPerPerson: "4,000",
+      parking: "Average",
       waitTime: "Average",
       openingHours: "12pm to 11pm daily",
       customerService: "Average",
@@ -61,7 +58,7 @@ export default function GuidePage({ params }) {
       note: "Our best suya spot in the city and one of two suya spots on this list. From their iconic sign to the large crowds, you see why this place is a fav in the city. On a slow day, their customer service is pretty good but when things get hectic, they enter their strict business mode and just chop away robotically which…isn’t really a bad thing to be fair.\nMid afternoon is a decent time to check them out if you are hoping to dodge the crowds.",
       proTip:
         "There’s a shop right next to the suya stand that sells drinks and beer. If you are not in a rush, you can pull out a couple of chairs with your group, kick back and relax. Fight the temptation to stand up and order more suya though.",
-      proTipAuthor: "Dese",
+      proTipAuthor: "Uju",
     },
 
     {
@@ -74,23 +71,23 @@ export default function GuidePage({ params }) {
       waitTime: "Fast",
       openingHours: "8am to 7pm (closed Sundays)",
       customerService: "Average",
-      ambience: "N/A",
-      food: "5/5",
+      ambience: "N/A (It’s actually a zero but it’s an amala spot so hey)",
+      food: "4.5/5",
       instagramLink: "NA",
       note: "A place so iconic it has its own bus stop (kinda) and with a name that’s a vibe. Amala Yahoo has been around for decades and even though we don’t eat it much (as evidenced by the lack of amala spots on the page) we have it on good record this is one of the goated amala places in Lagos.\n\nPrepare yourself for the shanty scenery though as you will eat in an uncompleted building with iffy customer service and that’s being generous. If you can get past that, there’s a banger here.",
       proTip:
         "Take-out is an easier way to go than eating there and don’t leave without trying their ogufe.",
-      proTipAuthor: "Community",
+      proTipAuthor: "Femi",
     },
 
     {
       name: "Atije Experience",
       address: "14F Obi Achebe Drive, Edgewater Estate, Lagos",
-      budgetPerPerson: "75,000",
+      budgetPerPerson: "85,000",
       googleMapsLink: "https://maps.app.goo.gl/dBZiLokMgHbuRmHN7",
       parking: "Good",
       waitTime: "Fast",
-      openingHours: "N/A",
+      openingHours: "Reservations only",
       customerService: "Excellent",
       ambience: "4/5",
       food: "5/5",
@@ -100,15 +97,15 @@ export default function GuidePage({ params }) {
        The menu here is largely African themed with Chef Moyo and co drawing strong inspiration from their native roots.
        You also get pretty much unlimited drinks of your choice be it wine or juice and there’s a fun moment in the middle when you cleanse your palate- no spoilers. They now have four slots every month but tickets go out pretty fast.`,
       proTip:
-        "While better enjoyed with a partner or a group, it is a lot easier to go alone here. The smaller space encourages interaction and after having a glass or two of wine (wink wink), everyone loosens up.",
-      proTipAuthor: "Mofe",
+        "While better enjoyed with a partner or a group, it is a lot easier to go alone here. The smaller space encourages interaction and after having a glass or two of wine (wink wink), everyone loosens up. Ajoje’s dates for December (Anfani) are the 13th and 14th.",
+      proTipAuthor: "Dese",
     },
     {
       name: "Basilico",
       address: "15 Musa Yar' Adua St, Victoria Island, Lagos 106104, Lagos",
       budgetPerPerson: "25,000",
       googleMapsLink: "https://maps.app.goo.gl/Hg8V32q9Sv2E2i2D9",
-      parking: "Limited",
+      parking: "Average",
       waitTime: "Fast",
       openingHours: "8am to 10pm daily",
       customerService: "Good",
@@ -117,15 +114,15 @@ export default function GuidePage({ params }) {
       instagramLink: "NA",
       note: "Basilico is one of those real OGs before IG. It’s Pizzeriah’s brother so we won’t bother including them on the list as you can easily get pizzas from them here as they are basically in the same compound (side note- their pizzas are pretty good). The building is a bit dated and it’s like more of an old house than anything.\n\nWhy we slid Basilico in? Their pasta prices are a couple of thousand under-priced compared to their peers and in terms of quality, they knock out most places in Lagos when it comes to anything Italian. They also have a pool you can dip in if you feel like.",
       proTip:
-        "You can’t get it wrong with their arrabbiata, carbonara or alla marinara.",
-      proTipAuthor: "Gideon",
+        "You can’t get it wrong with their arrabbiata, carbonara or alla marinara and if you even want to go skinny dipping, there’s a pool.",
+      proTipAuthor: "Femi",
     },
     {
       name: "B2B Lagos",
       address: "7b Karimu Kotun St, Victoria Island, Lagos 106104, Lagos",
-      budgetPerPerson: "30,000",
+      budgetPerPerson: "35,000",
       googleMapsLink: "https://maps.app.goo.gl/drfYeU5QXc1Y6PUv6",
-      parking: "Good",
+      parking: "Average",
       waitTime: "Fast",
       openingHours: "24/7",
       customerService: "Good",
@@ -139,19 +136,19 @@ export default function GuidePage({ params }) {
     For the late night crawlers, that’s golden. Their wait time is also super impressive- whatever time they tell you the food will come out, it will come out sooner. It also holds a special place in our hearts for being the place we shot our favourite Onijekuje video.
     `,
       proTip:
-        " My go-to here is their croissant sandwich and I pair it with their strawberry, banana and mango smoothie- always a bussin’ combo. Their sandwiches are generally fair but their jollof is so constantly amazingly bad that you actually wonder if it’s the same person making the meals.",
-      proTipAuthor: "Dese",
+        "My go-to here still remains their croissant sandwich paired with their strawberry, banana and mango smoothie- always a bussin’ combo. Their sandwiches are generally fair but their jollof is so constantly amazingly bad that you actually wonder if it’s the same person making the meals ",
+      proTipAuthor: "Uju",
     },
     {
       name: "Beezus Kitchen’s K-BBQ Night",
       address: "Private location",
-      budgetPerPerson: "85,000",
+      budgetPerPerson: "95,000",
       googleMapsLink: "NA",
       parking: "Good",
       waitTime: "Fast",
-      openingHours: "N/A",
+      openingHours: "Reservations only",
       customerService: "Excellent",
-      ambience: "4.5/5",
+      ambience: "4/5",
       food: "5/5",
       instagramLink:
         "https://www.instagram.com/beezuskitchen?igsh=MTlkN2g4dXQ4bG95NA==",
@@ -160,8 +157,8 @@ export default function GuidePage({ params }) {
         Chef B also has this cute soju o'clock where at random, everyone has to take a soju shot. All in all, it’s a wonderful bonding experience and they typically hold it once a month. Again, as with other private dining experiences on this list, tickets get sold out fast so keep an eye out. 
       `,
       proTip:
-        "Cozy up to one of the K-BBQ Night veterans- they are always there. You can mess up your meat pretty quickly as Chef B can’t be everywhere at once. These Beezus egbon adugbos will help you out before shit hits the fan.",
-      proTipAuthor: "Uju",
+        "Cozy up to one of the K-BBQ Night veterans- they are always there. You can mess up your meat pretty quickly as Chef B can’t be everywhere at once. You also get a bit of a discount when you book for a group of four or more.",
+      proTipAuthor: "Dese",
     },
     {
       name: "Buttermilk",
@@ -177,31 +174,10 @@ export default function GuidePage({ params }) {
       instagramLink:
         "https://www.instagram.com/buttermilk.ng?igsh=MW96YTVxMmM0eWVmaA==",
       note: `Buttermilk last year underwent a renovation that we loved- changing from the Barbie pink to a more minimalist mature theme. They do have some weak spots like their pasta but we feel they really hit the mark on their breakfast and brunch options.
-      For us, they have the best pancakes we have ever had in Lagos and service is always professional and prompt. Added bonus is they have a Tacos Tuesday package where you get a nice discount on cocktails and tacos. Also, their burgers aren’t half bad either`,
+      For us, they still have the best pancakes we have ever had in Lagos and service is always professional and prompt. Added bonus is they have a Tacos Tuesday package where you get a nice discount on cocktails and tacos. Also, their burgers aren’t half bad either`,
       proTip:
         "Their cinnamon swirl pancakes are a 10/10- an absolute banger. This alone should be enough to bring you here. The triple chocolate waffle milkshake pairs very well with it for a filling meal.",
       proTipAuthor: "Gideon",
-    },
-    {
-      name: "Canvas Concept Space",
-      address:
-        "36 Rasheed Alaba Williams Street, Lekki Phase 1, Lekki 105102, Lagos",
-      budgetPerPerson: "40,000",
-      googleMapsLink: "https://maps.app.goo.gl/dtxDatza1S41Nxia6",
-      parking: "Good",
-      waitTime: "Fast",
-      openingHours: "Variable (call to reserve)",
-      customerService: "Excellent",
-      ambience: "4/5",
-      food: "4/5",
-      instagramLink:
-        "https://www.instagram.com/canvas.cs?igsh=MTJ2YTlvcHA0bXEzZw==",
-      note: `Canvas Concept Space is a contemporary dining space focused on celebrating West African cuisine. They are a bit of a weird one with varied opening times and different menus- one for cocktail drinking, one for lunch and another for brunch. Also, you can walk in if you want something to have with their cocktails but you have to reserve for full on dining. Their quirkiness aside, Canvas is currently the best place to get drinks in Lagos.
-      Their space is also pretty cozy and the food excellent. Just like Elysium (spoiler alert), they pride themselves in sourcing their ingredients locally from around the country. You will also find events being hosted here regularly and they cover private dining bookings as well.
-      `,
-      proTip:
-        "Probably give them a call or send a DM on IG before going. They are pretty fluid with their rules. They have a very chic private lounge for members only and don’t leave without trying their guinea fowl focaccia sandwich - divine.",
-      proTipAuthor: "Mofe",
     },
     {
       name: "Chinatown Restaurant",
@@ -221,7 +197,7 @@ export default function GuidePage({ params }) {
       `,
       proTip:
         "Their chicken in sweet and sour sauce paired with their special fried rice is fricking delicious. The chicken in oyster sauce is also quietly as underrated as their dumplings.",
-      proTipAuthor: "Dese",
+      proTipAuthor: "Mofe",
     },
     {
       name: "Dani Lagos",
@@ -229,7 +205,7 @@ export default function GuidePage({ params }) {
         "House 1 Plot 1501 Itirin Court I, Off Bishop Aboyade Cole St, Eti-Osa, Victoria Island, Lagos",
       budgetPerPerson: "100,000",
       googleMapsLink: "https://maps.app.goo.gl/PuohnBYZXrKR6tqw8",
-      parking: "Good",
+      parking: "Excellent",
       waitTime: "Fast",
       openingHours: "3pm to 11pm daily",
       customerService: "Excellent",
@@ -262,13 +238,13 @@ export default function GuidePage({ params }) {
       `,
       proTip:
         "Combine their warm and tasty banana bread with some scoops of ice cream. If you are unsure of what to order, ask Yinka for recommendations.",
-      proTipAuthor: "Mofe",
+      proTipAuthor: "Femi",
     },
     {
       name: "Dough Pizza Bar",
       address: "17B Musa Yar' Adua St, Victoria Island, Lagos 106104, Lagos",
-      budgetPerPerson: "40,000",
-      googleMapsLink: "NA",
+      budgetPerPerson: "50,000",
+      googleMapsLink: "https://maps.app.goo.gl/Ys5oQ4Sc2LoWZac1A",
       parking: "Bad",
       waitTime: "Fast",
       openingHours: "5pm to 10pm daily (strictly by reservation)",
@@ -277,9 +253,9 @@ export default function GuidePage({ params }) {
       food: "5/5",
       instagramLink:
         "https://www.instagram.com/doughpizzabar?igsh=MWdkNDVuOHNxYnExaQ==",
-      note: `Our favourite pizza spot in the city at this moment in time, Dough Pizza Bar is a New York style pizza spot that sells expensive, but mouth watering options. For the older gen, it’s run by the kids of the famous Double Four pizza spot back in the day so you already know you are genetically covered.
-      Their hot salami is the stuff of legends and constantly their most sold out item- for us, it is the best pizza in Lagos and you must not leave without trying it. Their space is kind of small but cozy and the dim lights give an intimate feel. The parking here unfortunately is a bit of a problem due to ‘street police’ charging for a spot.
-      `,
+      note: `Over a year in and Dough Pizza, with their cozy and dimly lit intimate space, remains our best pizza spot in the city and maybe even of all time. For the older gen, it’s run by the kids of the famous Double Four pizza spot back in the day so you already know you are genetically covered.
+Their hot salami is the stuff of legends and constantly their most sold out item- for us, it is the best pizza in Lagos and you must not leave without trying it. The parking here unfortunately is a bit of a problem due to ‘street police’ charging for a spot but to end on a positive note, they’ve expanded their menu a bit with some wine and cocktails.
+`,
       proTip:
         "If you prefer your pizza halal, it might be a bit of a struggle here to get the best stuff. You can try out their nduja and no matter what you get, pair it with their frose. Also, if he is around, ask for Ali. He will finish off the pizza making process at your table and you can get those sweet shots for the gram.",
       proTipAuthor: "Dese",
@@ -288,7 +264,7 @@ export default function GuidePage({ params }) {
       name: "Dulce Cafe and Bakery",
       address:
         "Behind Slashpoint supermarket, 15 Glover Rd, Ikoyi, Lagos 106104, Lagos",
-      budgetPerPerson: "25,000",
+      budgetPerPerson: "30,000",
       googleMapsLink: "https://maps.app.goo.gl/7YSRUu5wKEwBs2EQ7",
       parking: "Good",
       waitTime: "Fast",
@@ -309,9 +285,9 @@ export default function GuidePage({ params }) {
       name: "Elysium Beach Club",
       address:
         "Elysium jetty End of, Foreshore Rd, Victoria Island, Lagos 106104, Lagos",
-      budgetPerPerson: "80,000",
+      budgetPerPerson: "100,000",
       googleMapsLink: "https://maps.app.goo.gl/BTStvjwPJUTtWEXY7",
-      parking: "Good",
+      parking: "Excellent",
       waitTime: "Average",
       openingHours: "1pm to 1am (closed Mon & Tue, strictly by reservation)",
       customerService: "Excellent",
@@ -323,30 +299,9 @@ export default function GuidePage({ params }) {
       Elysium is currently a members only club and it will set you back a cool 2,000 dollars if that interests you. You can’t really walk in so it’s much preferable if you reserve to save yourself the hassle.
       `,
       proTip:
-        "The view and vibe at Elysium Beach Club is a lot better at sunset so you are going to be in better stead going late and if it’s still on the menu, their Elysium Spice ",
+        "The view and vibe at Elysium Beach Club is a lot better at sunset so you are going to be in better stead going late and if it’s still on the menu, try their Elysium Spic. They also have a bunch of pop ups this December.",
       proTipAuthor: "Mofe",
     },
-    {
-      name: "Film and Dine by Minji",
-      address: "Private",
-      budgetPerPerson: "85,000",
-      googleMapsLink: "NA",
-      parking: "Good",
-      waitTime: "NA",
-      openingHours: "Variable",
-      customerService: "Good",
-      ambience: "4/5",
-      food: "4.5/5",
-      instagramLink:
-        "https://www.instagram.com/minjilagos?igsh=MWUxeng0aHNpazdheg==",
-      note: ` Film and Dine by Minji is an immersive experience that is a wet dream for cinephiles and foodies. You get to watch a classic movie and then a three to four course event with food matching what is on screen is delivered. It holds once a month and when you book, you will get more details. As with a lot of private or semi-private dining events on this list, you have to keep a look out for tickets. 
-    We love that they throw in conversation cards which enhance the experience and you have an option for romantic couples or just friends (ahem…friendzone). A single ticket goes for 85,000 but a ticket as a duo goes for 160,000
-    `,
-      proTip:
-        "Come with a hungry belly and preferably someone whose presence you can stomach - a couple of hours can be a long time with the wrong person",
-      proTipAuthor: "Community",
-    },
-
     {
       name: "Fired and Iced",
       address: "Plot 28, 77 Admiralty Way, Lekki Phase I, Lagos",
@@ -365,7 +320,7 @@ export default function GuidePage({ params }) {
       `,
       proTip:
         "We definitely recommend the pork ribs and Imoteda’s bowl with mashed potatoes and if you get the Lisa cocktail, it pairs perfectly with the chef’s signature dish.",
-      proTipAuthor: "Dese",
+      proTipAuthor: "Gideon",
     },
     {
       name: "Firewood Jollof",
@@ -384,7 +339,7 @@ export default function GuidePage({ params }) {
         It was a close call between them and Kaza rice and while Kaza offer a wider variety we think FJ are easily the kings of jollof in Lagos. Their customer service though can certainly go up a notch; actually a couple of notches. That said, it could just be a case of knowing how good their shit is and saying we don’t care, you will love us either way and we kind of respect that.`,
       proTip:
         "If possible, come to their store and eat there or have it as take out. Ordering through delivery apps is playing a serious game of jollof roulette with your food whether it’s extremely slow delivery or a missing or wrong item.",
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Femi",
     },
     {
       name: "Forno Lagos",
@@ -403,14 +358,14 @@ export default function GuidePage({ params }) {
     They are also one of the few spots on here with valet parking so you don’t have to rack your brain about that as you head down. To be honest, given the decent pricing, Forno is a quiet sweet option for a first date with no pressure on either party and if you see more red flags than a Ruger song, your pocket doesn’t take a huge hit
     `,
       proTip:
-        "Their hot honey diavola is just a smidge below the hot salami at Dough Bar and their spiked drinks get you just right on the edge without tilting you over so a great pick for those who just want a buzz.",
-      proTipAuthor: "Uju",
+        "Their hot honey diavola is just a smidge below the hot salami at Dough Bar and their spiked drinks get you just right on the edge without tilting you over so a great pick for those who just want a buzz. But the real gems are their wood fired sandwiches.",
+      proTipAuthor: "Dese",
     },
     {
       name: "Griddle and Roast",
       address:
         "9b Prince Adelowo Adedeji St, off Admiralty Way, Lekki Phase 1, Lagos 100001, Lagos",
-      budgetPerPerson: "25,000",
+      budgetPerPerson: "30,000",
       googleMapsLink: "https://maps.app.goo.gl/DRXdy3oSubtZGUhE7",
       parking: "Good",
       waitTime: "Average",
@@ -425,27 +380,7 @@ export default function GuidePage({ params }) {
       `,
       proTip:
         "Try to get their farmhouse platter- if anything for the mini burgers it comes with- absolutely delightful. Their grilled catfish is also massive and very well seasoned.",
-      proTipAuthor: "Gideon",
-    },
-    {
-      name: "Hanes and Jones",
-      address: "Block 2, plot 1 Okunade bluewaters scheme, Lekki 106104, Lagos",
-      budgetPerPerson: "35,000",
-      googleMapsLink: "https://maps.app.goo.gl/Qi6WJ1EAkvZ4EwKE9",
-      parking: "Good",
-      waitTime: "Average",
-      openingHours: "11am to 9pm (closed Mondays)",
-      customerService: "Good",
-      ambience: "4/5",
-      food: "4.5/5",
-      instagramLink:
-        "https://www.instagram.com/hanesandjones?igsh=MWJpdmNqNWIzYjA0Yg==",
-      note: `So admittedly we have some weak spots and tend to favour some restaurants over others on this guide. One subcategory you will come to see dominate here is Afro-fusion. Once we see someone playing around creatively with African food, we are a sucker for them and Hanes and Jones is right up there with the best of them.
-      From either their Yoruba themed cocktails like the Adesuwa made up of plantain whiskey sour to their sticky zobo wings to the smoked guinea fowl and chicken pasta, Hanes and Jones deliver some tasty Afro-centric meals. Their space is a tad small but we think the price point that’s a bit more affordable (a common theme with some of these Afro-fusion spots) makes up for it.
-      `,
-      proTip:
-        "Hanes and Jones is a bit difficult to locate but if you leave without trying out their smoked guinea fowl and chicken pasta, you have done yourself a disservice. Also, their Norwegian salmon and mashed potatoes is pretty lit.",
-      proTipAuthor: "Dese",
+      proTipAuthor: "Uju",
     },
     {
       name: "HSE Gourmet",
@@ -465,28 +400,9 @@ export default function GuidePage({ params }) {
       `,
       proTip:
         "Not too many meals miss the spot here if any. If we could pick a couple of the top hits, their salmon and lasagna will definitely be up there. They also have a meal of the month which tends to be something different but you have to specifically request for that.",
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Mofe",
     },
-    {
-      name: "Igbadun",
-      address: "Private",
-      budgetPerPerson: "55,000",
-      googleMapsLink: "NA",
-      parking: "Good",
-      waitTime: "Fast",
-      openingHours: "NA",
-      customerService: "Good",
-      ambience: "3.5/5",
-      food: "4/5",
-      instagramLink:
-        "https://www.instagram.com/igbadun__?igsh=MTdrYXMwNm04NWJtaA==",
-      note: `Igbadun which translates to enjoyment is an interesting project spearheaded by Chef Disu - think of a combination of Atije and Anu Bello’s sip and cook. It is an immersive culinary experience which includes a pasta making class, unlimited wine and some of the most delicious gourmet canapes you will ever have in Lagos. This holds on the third weekend of every month there are a limited number of spots so fastest fingers first for reservation. 
-      From asun ravioli to ikpekere guacamole, they get creative with meals here and with the wine ever flowing, you are in for a good time, but a gym workout or two would come in handy for when you are grinding away on the pasta
-      `,
-      proTip:
-        "Don’t worry if you are a shit cook; Chef Disu guides you pretty expertly. Try to go with a couple of your friends or loved ones so when you inevitably do your best to screw up the pasta, the banter can be elite.",
-      proTipAuthor: "Dese",
-    },
+
     {
       name: "Ile Mimu",
       address: "Private",
@@ -504,8 +420,8 @@ export default function GuidePage({ params }) {
       Here’s the catch - not only is it reservation only, reserving does not necessarily get you in. It’s a quasi social club where they kind of deem you worthy or not or you get in by being invited by someone already in. If you do get in though, the traditional themed drinks like their ogogoro are amazing and the food ain’t half bad either.
   `,
       proTip:
-        " In keeping with the theme of this spot, the pro-tip shall stay silent to complete the strangeness. We shall allow you to explore this adventure all by yourself…if you get in",
-      proTipAuthor: "Gideon",
+        " In keeping with the theme of this spot, the pro-tip shall stay silent to complete the strangeness. We shall allow you to explore this adventure all by yourself…if you get in. Just remember whatever happens in Mimu stays in Mimu.",
+      proTipAuthor: "Dese",
     },
 
     {
@@ -526,6 +442,23 @@ export default function GuidePage({ params }) {
       `,
       proTip:
         "Their Faaji Sunday is nice and all but if the razzmatazz doesn’t appeal to you, it is likely you will get better service on a weekday. Ile Iyan quietly is also one of the few places in Lagos where you can get top tier black soup. Their Olowo Eko Combo with egusi/efo riro is  pricey at 18,000 but it is stacked with protein and good value for money.",
+      proTipAuthor: "Femi",
+    },
+    {
+      name: "Ite",
+      address: "8 The Providence St, Lekki Phase 1,Lekki 106104, Lagos",
+      budgetPerPerson: "30,000",
+      googleMapsLink: "https://maps.app.goo.gl/rDviyKJijQtn9uXy6",
+      parking: "Good",
+      waitTime: "Slow",
+      openingHours: "11am to 10pm daily",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "4/5",
+      instagramLink: "https://www.instagram.com/my.ite?igsh=ZTg1MnEybnh4cHRs",
+      note: `If you can get beyond their laughably long and ridiculous wait time, My Ite is one of the best places to get local food in Lagos with a nice variety. The ambience here gives native vibes and with the artworks all around you, it feels very contemporary. Their portion sizes like most of the native spots on this list are very generous.`,
+      proTip:
+        "Their seafood okro is probably the best in Lagos for us and it’s a large ass bowl that two can share. You can also try their nkwobi or catfish peppersoup and you are unlikely to be disappointed.",
       proTipAuthor: "Mofe",
     },
 
@@ -570,6 +503,46 @@ Their rooftop view is lovely and the food does not lag far behind as well. Yes, 
         "Kaly excel with their steak options- it’s a tough one but our fav is probably their ribeye. They also have a business lunch available on weekdays till 4pm which comes with two courses and is priced at 59,000 so you can save a little bit with that.",
       proTipAuthor: "Uju",
     },
+    {
+      name: "Lagos Trivia Night by Awe Lagos",
+      address:
+        "Pop Landmark, Plot 3 & 4 Water Corporation Dr, Eti-Osa, Lagos 106104, Lagos",
+      budgetPerPerson:
+        "13,500 (solo - early bird) 105,000 (team of 8 - early bird)",
+      googleMapsLink: "https://maps.app.goo.gl/eJ9GkQ3kFFA6eyUQ8",
+      parking: "Excellent",
+      waitTime: "Average",
+      openingHours: "N/A",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "4/5",
+      instagramLink: "https://www.instagram.com/lagostrivianight/?hl=en",
+      note: `The best trivia experience in Lagos at the moment curated by Awe Lagos, Trivia Night has become not just an event but a culture in the city. The rules are simple -  you grab your squad, go (probably) fail a lot of questions, try to win a few prices and have a hell of a time.
+The venue rotates every now and then as it’s gotten bigger and bigger but right now, it’s  held at Pop Landmark so you have a wide space and a nice array of food vendors to try from. We much prefer the choices here compared to some other prior mid locations (we won’t name names)
+`,
+      proTip:
+        "There is always a movie section which everyone faffs for some reason so make sure you take a strong cinephile with you. The next LTN dates are the 13th and 28th of December; also, no cheating on the day, drop your phones, yes we are talking to you",
+      proTipAuthor: "Uju",
+    },
+    {
+      name: "Mako",
+      address: "36 Ademola St, Ikoyi, Lagos 106104, Lagos",
+      budgetPerPerson: "100,000",
+      googleMapsLink: "N/A",
+      parking: "Excellent",
+      waitTime: "Fast",
+      openingHours: "12pm to 3am (closed Mondays and Tuesdays)",
+      customerService: "Excellent",
+      ambience: "4.5/5",
+      food: "4.5/5",
+      instagramLink: "https://www.instagram.com/makolagos/?hl=en",
+      note: `Arguably the most popular members only club in Lagos right now and at 4,000 dollars a pop for the membership, definitely the most expensive out there right now. Beyond that eye popping fee, Mako is a pretty minimalist themed spot with a sweet view of the Lagos coastline. 
+You can get in either by being a member or knowing a member (which really isn’t the hardest thing in the world). If you can find your way there, their pizza options are truly some of the best in town. Their parties are also some of the best you will find in the city with some under the radar DJs that never miss.  
+`,
+      proTip:
+        "Their salami and margherita pizza options are our top picks. Mako is also one of a dying breed of spots where you actually get to hear the voice of the person across you on the table when talking",
+      proTipAuthor: "Dese",
+    },
 
     {
       name: "Mama Toyin Foods",
@@ -609,7 +582,7 @@ There’s also a large screen in the Green House court so if you come here on a 
 `,
       proTip:
         "Their large mixed platter is the best value for money and for those who are always looking for vegan options, there are vegetarian platters here you can check out. Their bunna (traditional Ethiopian coffee) is also a wonderful eye opener.",
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Mofe",
     },
     {
       name: "Milk and Honey / Gather House",
@@ -630,8 +603,29 @@ There’s also a large screen in the Green House court so if you come here on a 
     From their lotus biscoff to their caramel milkshakes, the richness and creaminess is divine. We also decided to include Gather House here as it is another place to get Milk and Honey products in a chic setting.
     `,
       proTip:
-        "Straying a little bit away from food, Gather House is also a great communal space to get female owned products, gift boxes and they host a monthly supper club. When in Milk and Honey, don’t leave without trying their caramel or biscoff milkshakes but honestly pretty much everything on this menu is too good.",
-      proTipAuthor: "Mofe",
+        "When in Milk and Honey, don’t leave without trying their caramel or biscoff milkshakes but honestly pretty much everything on this menu is too good. Gather House also has a bunch of events this month and their usual supper club on the 18th.",
+      proTipAuthor: "Gideon",
+    },
+    {
+      name: "Nahous - Bar 77",
+      address:
+        "Federal Palce Hostel, 6-8 Ahmadu Bello Way, Victoria Island, Lagos",
+      googleMapsLink: "https://maps.app.goo.gl/J9dKcLsZ4ZGfJ7iM7",
+      budgetPerPerson: "40,000",
+
+      parking: "Excellent",
+      waitTime: "Average",
+      openingHours: "5pm to 12pm (Wednesday to Sunday) ",
+      customerService: "Excellent",
+      ambience: "4/5",
+      food: "4.5/5",
+      instagramLink: "https://www.instagram.com/thenahous/?hl=en",
+      note: `Run by the Billionaire chef, Chef Eros, Bar 77 by Nahous is no longer such a secret and underground place as compared to when they first launched but they are still very much worth your time. 
+There’s also an art gallery upstairs where you can swing by and pretend you understand the depths of emotion invoked by the pieces. The vibe downstairs is always contagious, kind of like a rebel’s hangout and instead of large plates, they have smaller bites which fits the bar theme
+`,
+      proTip:
+        "Their drink menu is small but mighty - try their garri infused garricolada or hibiscus based zobotni. Pair either of them with the ewa aganyin and agege assembly and thank us later.",
+      proTipAuthor: "Uju",
     },
 
     {
@@ -647,11 +641,11 @@ There’s also a large screen in the Green House court so if you come here on a 
       food: "4.5/5",
       instagramLink:
         "https://www.instagram.com/nokbyalara?igsh=MTlmYno0am50aHhldg==",
-      note: ` Yup, another African themed spot with banging local food- prepare to be sick of these on this list. One thing we feel is underrated about Nok is their airy beautiful garden with colourful umbrellas. At night, this is a pretty nice place to just kick back and chill. Nok is famous for having the most expensive abula in Lagos but their food (as well as the amala) lives up to the price.
-      If you are looking for a spot to introduce your IJGB or non African friend to our local or African cuisine, Nok is an excellent choice. One thing we would like to see is them expand their indoor menu a bit to give more options but that’s really us just nitpicking. 
-      `,
+      note: `Of course there is no way we can make such a list without including the most expensive and bougie amala in Lagos but beyond their 24,000 naira a plate abula, Nok has a lot more to them. One thing we feel is underrated about Nok is their airy beautiful garden with colourful umbrellas. At night, this is a pretty nice place to just kick back and chill. 
+Their December calendar is also super packed with almost an event every other day so you’ll definitely find something for you and your crew and if you are asking, the answer is yes, their abula lives up to the reputation.
+`,
       proTip:
-        "Their abula is all the rave and for good reason but quietly their egusi soup with pounded yam and seafood okro are straight bangers. Nok also has a dedicated brunch menu and it’s one of the few places you can get great shakshouka in Lagos.",
+        "While their amala gets all the rave, Nok have quietly expanded their menu a fair bit and now have an outdoor grill menu as well as a dedicated brunch menu. It’s also one of the few places you can get great shakshouka in Lagos.",
       proTipAuthor: "Dese",
     },
     {
@@ -673,6 +667,25 @@ There’s also a large screen in the Green House court so if you come here on a 
       proTip:
         "Many native spots in Lagos surprisingly do not do well with palm wine but that’s usually one of their high points. Get the seafood okro too if you can.",
       proTipAuthor: "Gideon",
+    },
+    {
+      name: "Rapa Nui",
+      address: "256 Etim Inyang Cres, Victoria Island, Lagos 106104, Lagos",
+      budgetPerPerson: "25,000",
+      googleMapsLink: "https://maps.app.goo.gl/TFyg396HobgGv571A",
+      parking: "Average",
+      waitTime: "Fast",
+      openingHours: "12pm to 11:30pm (close 10pm on Sundays)  ",
+      customerService: "Good",
+      ambience: "4/5",
+      food: "4/5",
+      instagramLink: "https://www.instagram.com/rapa_nui_lagos/?hl=en",
+      note: `The real ones remember Rapa Nui at The Good Beach and while you might not get that beautiful beachside view anymore in their new location, you still get most of the good things that come along with any Chef Dulhade run project. 
+It’s a Poylnesian inspired dining spot with fairly decent value and great tasting food and they also did a pretty fair job recreating some of the ambience they had in the old spot. Unfortunately, our favourite order of the super affordable ocean and garden platter is off the menu but Rapa Nui still remains one of the best seafood spots in the city.
+`,
+      proTip:
+        "Your order should go thus - fish croquettes as a  starter, pork ribs for mains and then finish off with some tres leches; that still keeps you around the 30,000 mark.",
+      proTipAuthor: "Mofe",
     },
     {
       name: "Rhodes BBQ Smokehouse",
@@ -697,7 +710,7 @@ Rhodes is a traditional Southern Style American BBQ spot owned by Koye Rhodes wh
     {
       name: "RSVP",
       address: "9 Eletu Ogabi St, Victoria Island, Lagos 101001, Lagos",
-      budgetPerPerson: "80,000",
+      budgetPerPerson: "100,000",
       googleMapsLink: "https://maps.app.goo.gl/Xysvzsbh3WEuZA4e6",
       parking: "Limited",
       waitTime: "Fast",
@@ -709,32 +722,11 @@ Rhodes is a traditional Southern Style American BBQ spot owned by Koye Rhodes wh
         "https://www.instagram.com/rsvp.lagos?igsh=eTdrN2xqdTEyZHo5",
       note: `Just like Kaly, RSVP does a lot of what should be done to make a dining experience memorable. They are an American styled restaurant and bar with a patio and pool that has been in the game for over a decade. 
       Similar to Salmas, the poolside is a pretty chill place to eat at but the spaces get taken pretty fast. RSVP is notoriously bad for pictures and videos if you are a content creator and you need to make videos in the evening. They dim the lights quite a bit inside but if you just want regular pictures, you will be fine.
-      PS- Since they have the same owners, putting RSVP was our nod to Slow who couldn’t get in but are outstanding. 
+      PS- Initial versions of the guide had us foregoing Slow because they are owned by the same group but a particular team member who shall not be named started tossing Cheese balls at us till we gave in. 
       `,
       proTip:
         "Their salmon fillet  and chicken roast are two proper top tier mains. Also, the dessert options they have here are very strong- try out their miso creme brulee or blueberry cheesecake.",
-      proTipAuthor: "Mofe",
-    },
-    {
-      name: "Sabii Chow and Grillz",
-      address:
-        "Beside Commint Buka, Municipal B/Stop, 26 Itire Street, Idi-Araba, Lagos 101241, Lagos",
-      budgetPerPerson: "5,000",
-      googleMapsLink: "https://maps.app.goo.gl/5ydXPA1dbK618mkV7",
-      parking: "Limited",
-      waitTime: "Fast",
-      openingHours: "10am to 9pm",
-      customerService: "Good",
-      ambience: "N/A",
-      food: "5/5",
-      instagramLink:
-        "https://www.instagram.com/sabii_chow_grillz?igsh=MTdtdXZ5NDVoZ3JoaA==",
-      note: `One of the few (majorly) delivery focused places on this list, Sabi Chow and Grillz is one of the best uber affordable spots to go to in the city. Their consistency is remarkable- you will rarely see them have a bad day.
-The parfaits here are fair but we feel most of it is on the top rather than all across. You are probably better served off using Chowdeck or Glovo to order but if you want it delivered to a location far off from them, you will have to call.
-`,
-      proTip:
-        "Their basmati rice with asun is a proper fav, in fact anything with their asun is solid including their spaghetti. You could also try out their chicken and asun shawarma- falls apart too easily for our liking but super tasty.",
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Femi",
     },
     {
       name: "Salma’s Authentic Lebanese Cuisine",
@@ -773,8 +765,8 @@ They are one of the OG spots in Lagos and for good reason. Whether it’s their 
 Their burgers and dessert options are so good and their bartenders always put on a show when it comes to making drinks. For what it’s worth, S and S were the first spot we saw in Lagos that started with the trendy enclosed burger gimmick…which for the record, we absolutely love.
 `,
       proTip:
-        "Their drinks are pretty fire here and our fav is the gold mine- just prepare for your hands to get a bit sticky. If you are looking for a happy hour deal, check in between 5pm and 8pm and for food, their burgers are top-tier. Also don’t leave without trying out their french toast- ridiculously good for the price.",
-      proTipAuthor: "Mofe",
+        "Their drinks are pretty fire here and our fav is the gold mine- just prepare for your hands to get a bit sticky. If you are looking for a happy hour deal, check in between 5pm and 8pm and for food, their burgers are top-tier. On most Sundays after church, Uncle PJ also comes around to host one of the littest day parties in Lagos.",
+      proTipAuthor: "Dese",
     },
     {
       name: "Shark House 101",
@@ -815,7 +807,7 @@ They are also one of the few places we know where you can get a full on teppanya
 `,
       proTip:
         "Shiro has a Sunday brunch where currently, you can get unlimited food with alcoholic drinks for 52,500. Their shisha is also one of the best you will find in Lagos.",
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Femi",
     },
     {
       name: "Sip and Cook at 22b",
@@ -900,26 +892,6 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       proTipAuthor: "Mofe",
     },
     {
-      name: "Top Beans Coffee and More",
-      address: "Fourteen366 Mall 1436 Sanusi Fafunwa Street, Victoria Island",
-      googleMapsLink: "https://maps.app.goo.gl/YHjVtciUNshjMwTm7",
-      budgetPerPerson: "15,000",
-      parking: "Excellent",
-      waitTime: "Fast",
-      openingHours: "7am to 6pm (closed on Sundays) ",
-      customerService: "Excellent",
-      ambience: "4.5/5",
-      food: "4/5",
-      instagramLink:
-        "https://www.instagram.com/sushi.bbqholic.lagos?igsh=aXNpdG82YnNheWpn",
-      note: `So we generally shy away from including franchises but we really had to make an exception for Top Beans. They have a couple of branches across Lagos including in Ikeja for you, yes you mainland person whose blood is already getting hot. 
-      They have maybe the most diverse range of coffee options we have seen in the city be it their Vietnamese coffee or Japanese hot chocolate and you can tell from the taste they do not compromise on quality. If you need a place to lock in to meet your work goals for Q2, it’s an excellent option
-    `,
-      proTip:
-        "If you leave here without trying out their pulled lamb sandwich, please just order that Uber and start heading back. Their pumpkin cake is unbelievably good and for coffee nerds looking for something unique, try the syphon brew.",
-      proTipAuthor: "Mofe",
-    },
-    {
       name: "The Ona Lagos",
       address: "1701 Violet Yough Close, Victoria Island, 106104, Lagos",
       budgetPerPerson: "80,000",
@@ -958,7 +930,7 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       `,
       proTip:
         "Their chicken lollipops are sensational. We have had them time and time again and without fail, they deliver. The kilishi pasta bowl with slow cooked rabbit is currently our best dish to get in Lagos and while their drinks are hit or miss, the hibiscus ocean is a fav",
-      proTipAuthor: "Gideon",
+      proTipAuthor: "Dese",
     },
 
     {
@@ -981,6 +953,25 @@ It’s a small ish spot and while cute, not necessarily the most banging in term
       proTipAuthor: "Mofe",
     },
     {
+      name: "White Garden Chinese Restaurant",
+      address: "34 Balarabe Musa Crescent, Victoria Island",
+      budgetPerPerson: "40,000",
+      googleMapsLink: "https://maps.app.goo.gl/3sjQGzrQuNpcRge58",
+      parking: "Good",
+      waitTime: "Fast",
+      openingHours: "11:00am to 10:00am daily",
+      customerService: "Good",
+      ambience: "3/5",
+      food: "5/5",
+      instagramLink: "NA",
+      note: `A very late addition and one of the few places on the list we have not been to at least once but White Garden got the rare Eat Drink and Foodie in Lagos rubber stamp so you already know you are in safe hands. They are one of the few places that offer a top-tier hotspot experience in the city.
+      With a sauce bar that deserves its place in the Lagos House of Assembly and a spot great for groups, you can forgive their often slightly confused waiters who don’t always seem so sure of what exactly is sold but to be fair, they do make up for it with their over-exuberant enthusiasm
+    `,
+      proTip:
+        "Their dual flavoured ying yang spot is pretty highly rated and the claypot duck, black bean short ribs, and yanzong fried rice are a must try. Also, shout out to them for their generous portions for real.",
+      proTipAuthor: "Community",
+    },
+    {
       name: "Zanzan Suya at Lagos Polo Club",
       address: "1 Polo Rd, Ikoyi, Lagos 106104, Lagos",
       budgetPerPerson: "4,000",
@@ -1000,23 +991,22 @@ That said, if you are already close to one of the most prestigious and historic 
       proTipAuthor: "Gideon",
     },
     {
-      name: "White Garden Chinese Restaurant",
-      address: "34 Balarabe Musa Crescent, Victoria Island",
-      budgetPerPerson: "40,000",
-      googleMapsLink: "https://maps.app.goo.gl/3sjQGzrQuNpcRge58",
+      name: "ZaZa Restaurant and Lounge",
+      address:
+        "Hartleys, 19 Agoro Odiyan St, Victoria Island, Lagos 106104, Lagos",
+      budgetPerPerson: "100,000",
+      googleMapsLink: "https://maps.app.goo.gl/58ujfteQew1Vy2zo6",
       parking: "Good",
       waitTime: "Fast",
-      openingHours: "11:00am to 10:00am daily",
-      customerService: "Good",
-      ambience: "3/5",
-      food: "5/5",
-      instagramLink: "NA",
-      note: `A very late addition and one of the few places on the list we have not been to at least once but White Garden got the rare Eat Drink and Foodie in Lagos rubber stamp so you already know you are in safe hands. They are one of the few places that offer a top-tier hotspot experience in the city.
-      With a sauce bar that deserves its place in the Lagos House of Assembly and a spot great for groups, you can forgive their often slightly confused waiters who don’t always seem so sure of what exactly is sold but to be fair, they do make up for it with their over-exuberant enthusiasm
-    `,
+      openingHours: "7:00pm to 2:00am (closed Monday and Tuesday)",
+      customerService: "Excellent",
+      ambience: "5/5",
+      food: "4.5/5",
+      instagramLink: "https://www.instagram.com/zazalagos/?hl=en",
+      note: `With this, we feel like we strayed a bit from our core ethos but hey, if there’s a time to do that, it should be Detty December. Zaza just edged our Boho Lagos on here but both are amazing options anyway. With the former, you get some of the most premium nightlife you will experience in the city and Zaza has a way of just doing it sleekly unlike some other spots in the city where it can come off as tacky. They also have a long list of big artists coming through this month so it’s sure to be a hell of a time.`,
       proTip:
-        "Their dual flavoured ying yang spot is pretty highly rated and the claypot duck, black bean short ribs, and yanzong fried rice are a must try. Also, shout out to them for their generous portions for real.",
-      proTipAuthor: "Dese",
+        "Their new glow-up is really amazing from unbelievable performances to champagne in the toilet (you did not read that wrongly); but we will leave you to explore the rest without spoilers.",
+      proTipAuthor: "Gideon",
     },
   ];
 
@@ -1030,7 +1020,7 @@ That said, if you are already close to one of the most prestigious and historic 
           </h1>
           <div className="gap-1 w-full mb-5">
             <p className="text-gray-700 text-xs w-full bg">
-              Last updated : {moment("2025-05-29").format("MMM D, YYYY")}
+              Last updated : {moment("2025-12-11").format("MMM D, YYYY")}
             </p>
           </div>
           <p className="text-gray-600 leading-relaxed mb-10">
