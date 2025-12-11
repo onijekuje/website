@@ -49,7 +49,7 @@ const Header = () => {
             <span className="sr-only">Onijekuje</span>
             <Image
               className="h-full w-auto"
-              src="/logo_black_text.png"
+              src="/logo.png"
               width={100}
               height={100}
               alt="Onijekuje Logo"
@@ -153,7 +153,7 @@ const Header = () => {
               <span className="sr-only">Onijekuje</span>
               <Image
                 className="h-full w-auto"
-                src="/logo_black_text.png"
+                src="/logo.png"
                 width={100}
                 height={100}
                 alt="Onijekuje Logo"
